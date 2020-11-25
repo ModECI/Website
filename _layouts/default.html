@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+        </header>
+    </div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+
+      <section id="main_content" class="inner">
+            <p><img alt="ModECI" src="images/ModECI_logo.png" width="300" align="centre"/></p>
+            <p align="centre"><a href="http://modeci.org/"><strong>ModECI Home</strong></a> &nbsp;&nbsp;&nbsp;<a href="About.html"><strong>About</strong></a></p>
+            
+        {{ content }}
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>ModECI: Model Exchange & Convergence Initiative</p>
+      </footer>
+    </div>
+
+
+  </body>
+</html>
