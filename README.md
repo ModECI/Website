@@ -1,5 +1,8 @@
-# The Model Exchange and Convergence Initiative
+<p><img alt="ModECI" src="images/ModECI_logo.png" width="500" align="centre"/></p>
 
-**Work in progress...**
+ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration that aims to 
+develop a standardized format for exchanging computational models among neuroscience, 
+cognitive science and machine learning. 
 
-See [here](https://github.com/ModECI/MDF) for more details.
+We are aiming to define a <a href="MDF.html">Model Description Format (MDF)</a> which 
+can specify a broad range of models which can be expressed as computational graphs.
