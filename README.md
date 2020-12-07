@@ -8,3 +8,5 @@ cognitive science and machine learning.
 
 We are aiming to define a <a href="MDF.html">Model Description Format (MDF)</a> which 
 can specify a broad range of models which can be expressed as computational graphs.
+This will promote replicability, model comparison, model integration, the exchange of theoretical insights,
+and the leveraging of tools for model analysis and optimization across different software platforms and scientific domains.
