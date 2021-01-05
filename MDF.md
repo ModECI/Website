@@ -8,4 +8,7 @@ imported into another modeling environment that supports the standard, and then 
 identical results, and/or integrated with other models in that environment.
 
 
+<h2>Current status</h2>
+
+**The ModECI MDF is in the early stages of development.** 
 See [here](https://github.com/ModECI/MDF) for more details.
