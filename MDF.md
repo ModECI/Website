@@ -7,6 +7,7 @@ environment that supports the standard to be expressed in a form -- and in suffi
 imported into another modeling environment that supports the standard, and then executed in that environment with
 identical results, and/or integrated with other models in that environment.
 
+![MDF](images/MDFOutline.png)
 
 <h2>Current status</h2>
 
