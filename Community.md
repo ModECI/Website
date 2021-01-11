@@ -16,7 +16,7 @@ Experts in areas of cognitive science/psychology, computational neuroscience, ne
 
 **November 19, 2020**
 
-Domain expert gathered to deliberate the impact an MDF could have on the cognitive science process-modeling community.  Rich discussions solicited insightful feedback and cautionary tales from participants’ experiences, thus leading to a better-informed prototype for the ModECI MDF.
+Domain experts gathered to deliberate the impact an MDF could have on the cognitive science process-modeling community.  Rich discussions solicited insightful feedback and cautionary tales from participants’ experiences, thus leading to a better-informed prototype for the ModECI MDF.
 
 <h3>ML/AI Focus Group Workshop</h3>
 
