@@ -9,15 +9,18 @@ researchers in these domains.
 
 Currently, there are no existing standards that fully meet the identified need.
 The closest standard, [ONNX](https://onnx.ai), is focused more on providing an intermediate representation 
-(IR) for compilation and optimization rather than exchange.
-Nothing exists that naturally supports hierarchical structure or general interpretable process control.
+(IR) for compilation and optimization rather than exchange. It does not naturally support hierarchical 
+structure or general interpretable process control. [NeuroML](https://www.NeuroML.org) is model 
+description format for biologically inspired neuronal networks, but 
+is not currently used for more abstract networks and graphs used in machine learning applications.
 
 [ModECI](http://www.modeci.org) will provide a standardized [Model Description Format (MDF)](MDF) that 
 can be used to exchange models between different software modeling environments and scientific domains
-and will be presented as an exchange standard, not a programming language.
+and will be presented as an exchange standard, not a programming language. [ONNX](https://onnx.ai) and [NeuroML](https://www.NeuroML.org) will 
+provide guidance for the scope of MDF, and will be potential input/output formats. 
 
 Such an MDF would have numerous benefits, both scientific and technological, including: 
-- dissemination and validation of model reproducibility
+- dissemination of models and validation of model reproducibility
 - migration of models across domains (e.g., use of models of brain function in machine learning applications)
 - integration of models at different levels of analysis (e.g. biophysically-realistic neural models 
 into models of cognitive function, cognitive models as agents in population level models)
