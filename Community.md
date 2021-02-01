@@ -12,6 +12,18 @@ We have hosted the following workshops as part of this process to engage the wid
 
 Experts in areas of cognitive science/psychology, computational neuroscience, neuroinformatics, brain imaging and cognitive/symbolic modeling, systems and AI architecture, and Machine Learning participated in discussions on the feasibility of a [Model Description Format (MDF)](https://modeci.github.io/Website/MDF.html) as posited by the ModECI team. The overall consensus - there is a real need for a format like MDF and each participant saw a practical benefit of MDF furthering convergence science in their respective domains.
 
+Attendees:
+Dr. Jonathan Cohen,	Princeton Neuroscience Institute
+Dr. Abhishek Bhattacharjee,	Yale University
+Dr. Padraig Gleeson, University College of London
+Dr. Ted Willke,	Intel
+Dr. Tal Yarkoni,	University of Texas
+Raghav Pothukuchi, Yale University
+Katherine Mantel,	Princeton Neuroscience Institute
+Jeremy Lee,	Princeton Neuroscience Institute
+Dave Turner,	Princeton Neuroscience Institute
+Jan Vesely,	Princeton Neuroscience Institute
+
 <h3>Cognitive Science workshop</h3>
 
 **November 19, 2020**
