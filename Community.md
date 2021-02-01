@@ -32,4 +32,12 @@ Experts in several areas including Python, PyTorch, and IR discussed the potenti
 
 We have had discussions with the following [NSF CA projects](https://www.nsf.gov/od/oia/convergence-accelerator/) about synergies between our projects...
 
-<h3>Project D-xxx</h3>
+<h3>Project D-462</h3>
+Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3) (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040462&HistoricalAwards=false)
+Sponsor: Vanderbilt University
+Bennett Landman (Principal Investigator)
+Cheryl Carey (Co-Principal Investigator)
+Ipek Oguz (Co-Principal Investigator)
+Steve Langer (Co-Principal Investigator)
+Leon Chen (Co-Principal Investigator)
+
