@@ -138,7 +138,7 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 
 [AI-Enabled, Privacy-Preserving Information Sharing for Securing Network Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040675&HistoricalAwards=false)
 
-**Sponsor: Carnegie-Mellon University
+**Sponsor: Carnegie-Mellon University**
 
 - Giulia Fanti (Principal Investigator)
 - Michael Reiter (Co-Principal Investigator)
