@@ -43,6 +43,24 @@ Attendees:
 
 Domain experts gathered to deliberate the impact an MDF could have on the cognitive science process-modeling community.  Rich discussions solicited insightful feedback and cautionary tales from participants’ experiences, thus leading to a better-informed prototype for the ModECI MDF.
 
+Attendees:
+- Dr. Christian Lebiere, ACT-R
+- Dr. John Laird, Soar/Common Model
+- Dr. Pat Langley, ICARUS
+- Dr. Rick Lewis, ACT-R/Soar/CORE
+- Dr. Frank Ritter, ACT-R/Soar/Herbal
+- Dr. Paul Rosenbloom, Sigma graphical model/Common Model
+- Dr. Terry Stewart, ACT-R/Nengo 
+- Dr. Andrea Stocco, ACT-R/Common Model
+- Dr. Jonathan Cohen,  Princeton Neuroscience Institute
+- Dr. Padraig Gleeson,  University College of London
+- Dr. Tal Yarkoni, University of Texas
+- Jeremy Lee, Princeton Neuroscience Institute
+- Raghav Pothukuchi,  Yale University
+- Jan Vesely, Princeton Neuroscience Institute
+
+
+
 <h3>ML/AI Focus Group Workshop</h3>
 
 **December 18, 2020**
@@ -51,6 +69,21 @@ The ModECI team hosted their second focused group workshop, working with the Art
 
 Experts in several areas including Python, PyTorch, and IR discussed the potential for the MDF while also providing valuable insight into future pathways.
 
+Attendees:
+- Dr. Ryan Adams, Princeton
+- Dr. Doug Fritz, Deep Minds
+- Dr. Jim Pivarski, Princeton
+- Dr. Carole Jean Wu, FAIR
+- Michael Suo,  FAIR
+- Dr. Jonathan Cohen,  Princeton Neuroscience Institute
+- Dr. Abhishek Bhattacharjee, Yale University
+- Dr. Padraig Gleeson,  University College of London
+- Dr. Ted Willke, Intel
+- Dr. Tal Yarkoni, University of Texas
+- Jeremy Lee, Princeton Neuroscience Institute
+- Patrick Stock, Princeton Neuroscience Institute
+- Dave Turner, Princeton Neuroscience Institute
+- Jan Vesely, Princeton Neuroscience Institute
 
 
 <h2>NSF Convergence Accelerator projects</h2>
