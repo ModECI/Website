@@ -13,19 +13,19 @@ We have hosted the following workshops as part of this process to engage the wid
 Experts in areas of cognitive science/psychology, computational neuroscience, neuroinformatics, brain imaging and cognitive/symbolic modeling, systems and AI architecture, and Machine Learning participated in discussions on the feasibility of a [Model Description Format (MDF)](https://modeci.github.io/Website/MDF.html) as posited by the ModECI team. The overall consensus - there is a real need for a format like MDF and each participant saw a practical benefit of MDF furthering convergence science in their respective domains.
 
 Attendees:
-- Dr. Anton Arkhipov, affiliation
-- Dr. Trevor Bekolay, affiliation
-- Dr. John Griffiths, affiliation
-- Dr. Anurag Khandelwal, affiliation
-- Dr. Christian Lebierre, affiliation
-- Dr. Maryann Martone, affiliation
-- Dr. Randy McIntosh, affiliation
-- Dr. Brian Nosek, affiliation
-- Dr. Jim Pivarski, affiliation
-- Dr. Russ Poldrack, affiliation
-- Dr. Fred Rothganger, affiliation
-- Dr. Carole-Jean Wu, affiliation
-- Dr. Yuan Yu, affiliation
+- Dr. Anton Arkhipov, Allen Institute
+- Dr. Trevor Bekolay, Applied Brain Research
+- Dr. John Griffiths, Griffslabs
+- Dr. Anurag Khandelwal, Yale University
+- Dr. Christian Lebierre, Act-R
+- Dr. Maryann Martone, University of California, San Diego
+- Dr. Randy McIntosh, Rotman Research Institute
+- Dr. Brian Nosek, Center for Open Science
+- Dr. Jim Pivarski, Princeton University
+- Dr. Russ Poldrack, Stanford University
+- Dr. Fred Rothganger, Sandia labs
+- Dr. Carole-Jean Wu, Facebook’s AI Infrastructure Research (FAIR)
+- Dr. Yuan Yu, Microsoft
 - Dr. Jonathan Cohen,	Princeton Neuroscience Institute
 - Dr. Abhishek Bhattacharjee,	Yale University
 - Dr. Padraig Gleeson, University College of London
@@ -71,7 +71,7 @@ Experts in several areas including Python, PyTorch, and IR discussed the potenti
 
 Attendees:
 - Dr. Ryan Adams, Princeton
-- Dr. Doug Fritz, Deep Minds
+- 
 - Dr. Jim Pivarski, Princeton
 - Dr. Carole Jean Wu, FAIR
 - Michael Suo,  FAIR
@@ -84,6 +84,48 @@ Attendees:
 - Patrick Stock, Princeton Neuroscience Institute
 - Dave Turner, Princeton Neuroscience Institute
 - Jan Vesely, Princeton Neuroscience Institute
+
+<h3>Neuro Focus Group Workshop</h3>
+
+**February 8, 2021**
+
+The ModECI team hosted their third Domain-specific focus group workshop, working with the Neuroscience international community. The objective was to identify end-user needs and areas of growth for the project.  Several topics were discussed including the importance of identifying use-cases, precision, benchmarks, environments, and procedural coding.  The lively discussion and debates provided much feedback for the ModECI team to consider in building the prototype and for future launching. 
+
+Attendees
+
+- Dr. Anton Arkhipov, Allen Institute
+- Kael Dai, Allen Institute 
+- Nora Abi Akar, Arbor Project
+- Dr. Ben Cumming, Arbor Project
+- Dr. Hananel Hazan, Arbor Project
+- Dr. Brent Huisman, Arbor Project
+- Dr. Sam Yates, Arbor Project	
+- Dr. Marmaduke Woodman, The Virtual Brain
+- Dr. Spase Petkoski, The Virtual Brain
+- Dr. Micha Schirner, The Virtual Brain
+- Dr. Petra Ritter, The Virtual Brain
+- Dr. Robert McDougal, Neuron
+- Dr. Nicholas (Ted) Carnevale, Neuron
+- Dr. Sharon Crook, NeuroML
+- Dr. Marcel Stimberg, Brian
+- Dr. James (Jamie) Knight, GeNN simulator
+- Dr. Thomas Nowotny, GeNN simulator
+- Dr. Terence (Terry) Stewart, Nengo
+- Dr. Charl Linssen, NESTML
+- Dr. Jerry Skefos, Metacell
+- Dr. Jonathan Cohen,  Princeton Neuroscience Institute
+- Dr. Abhishek Bhattacharjee, Yale University
+- Dr. Padraig Gleeson,  University College of London
+- Dr. Ted Willke, Intel
+- Dr. Tal Yarkoni, University of Texas
+- Jeremy Lee, Princeton Neuroscience Institute
+- Patrick Stock, Princeton Neuroscience Institute
+- Dave Turner, Princeton Neuroscience Institute
+- Jan Vesely, Princeton Neuroscience Institute
+
+
+
+
 
 
 <h2>NSF Convergence Accelerator projects</h2>
@@ -117,7 +159,7 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 [The Data Hypervisor: Orchestrating Data and Models](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040718&HistoricalAwards=false)
 
 **Sponsor: University of Chicago**
-- Ian Foster foster (Principal Investigator)
+- Ian Foster (Principal Investigator)
 - Michael Franklin (Co-Principal Investigator)
 - Raul Castro Fernandez (Co-Principal Investigator)
 - Sendhil Mullainathan (Co-Principal Investigator)
@@ -180,3 +222,34 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - Kenneth Kunkel (Co-Principal Investigator)
 - Scott Steinschneider (Co-Principal Investigator)
 
+<h3>Project D-665</h3>
+
+[Intelligent Surveillance Platform for Damage Detection and Localization of Civil Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040665&HistoricalAwards=false)
+
+**Sponsor: 	Howard University**
+
+- Claudia Marin (Principal Investigator)
+- Qiang (Shawn) Cheng (Co-Principal Investigator)
+- Jale Tezcan (Co-Principal Investigator)
+
+<h3>Project D-638</h3>
+
+[Data & AI Methods for Modeling Facial Expressions in Language with Applications to Privacy for the Deaf, ASL Education & Linguistic Res](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040638&HistoricalAwards=false)
+
+**Sponsor: 	Rutgers University New Brunswick**
+
+- Dimitris Metaxas (Principal Investigator)
+- Carol Neidle (Co-Principal Investigator)
+- Matt Huenerfauth (Co-Principal Investigator)
+- Mariapaola D'Imperio (Co-Principal Investigator)
+
+<h3>Project 676</h3>
+
+[Artificial Intelligence and Community Driven Wildland Fire Innovation via a WIFIRE Commons Infrastructure for Data and Model Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040676&HistoricalAwards=false)
+
+**Sponsor: 	University of California-San Diego**
+
+-Ilkay Altintas (Principal Investigator)
+- Yolanda Gil (Co-Principal Investigator)
+- John Hiers (Co-Principal Investigator)
+- Rodman Linn (Co-Principal Investigator)
