@@ -1,6 +1,6 @@
 # Community contacts
 
-Interaction with the wider computational community is essential to the development of the Model Description Format
+Interaction with the wider computational community is essential to the development of the Model Description Format.
 
 <h2>Community engagement workshops</h2>
 
@@ -50,7 +50,7 @@ Attendees:
 - Dr. Rick Lewis, ACT-R/Soar/CORE
 - Dr. Frank Ritter, ACT-R/Soar/Herbal
 - Dr. Paul Rosenbloom, Sigma graphical model/Common Model
-- Dr. Terry Stewart, ACT-R/Nengo 
+- Dr. Terry Stewart, ACT-R/Nengo
 - Dr. Andrea Stocco, ACT-R/Common Model
 - Dr. Jonathan Cohen,  Princeton Neuroscience Institute
 - Dr. Padraig Gleeson,  University College of London
@@ -65,13 +65,13 @@ Attendees:
 
 **December 18, 2020**
 
-The ModECI team hosted their second focused group workshop, working with the Artificial Intelligence and Machine Learning/Deep Learning communities to identify user-needs and areas of growth for the project. 
+The ModECI team hosted their second focused group workshop, working with the Artificial Intelligence and Machine Learning/Deep Learning communities to identify user-needs and areas of growth for the project.
 
 Experts in several areas including Python, PyTorch, and IR discussed the potential for the MDF while also providing valuable insight into future pathways.
 
 Attendees:
 - Dr. Ryan Adams, Princeton
-- 
+-
 - Dr. Jim Pivarski, Princeton
 - Dr. Carole Jean Wu, FAIR
 - Michael Suo,  FAIR
@@ -89,17 +89,17 @@ Attendees:
 
 **February 8, 2021**
 
-The ModECI team hosted their third Domain-specific focus group workshop, working with the Neuroscience international community. The objective was to identify end-user needs and areas of growth for the project.  Several topics were discussed including the importance of identifying use-cases, precision, benchmarks, environments, and procedural coding.  The lively discussion and debates provided much feedback for the ModECI team to consider in building the prototype and for future launching. 
+The ModECI team hosted their third Domain-specific focus group workshop, working with the Neuroscience international community. The objective was to identify end-user needs and areas of growth for the project.  Several topics were discussed including the importance of identifying use-cases, precision, benchmarks, environments, and procedural coding.  The lively discussion and debates provided much feedback for the ModECI team to consider in building the prototype and for future launching.
 
 Attendees
 
 - Dr. Anton Arkhipov, Allen Institute
-- Kael Dai, Allen Institute 
+- Kael Dai, Allen Institute
 - Nora Abi Akar, Arbor Project
 - Dr. Ben Cumming, Arbor Project
 - Dr. Hananel Hazan, Arbor Project
 - Dr. Brent Huisman, Arbor Project
-- Dr. Sam Yates, Arbor Project	
+- Dr. Sam Yates, Arbor Project
 - Dr. Marmaduke Woodman, The Virtual Brain
 - Dr. Spase Petkoski, The Virtual Brain
 - Dr. Micha Schirner, The Virtual Brain
@@ -130,7 +130,7 @@ Attendees
 
 <h2>NSF Convergence Accelerator projects</h2>
 
-We have had discussions with the following [NSF CA projects](https://www.nsf.gov/od/oia/convergence-accelerator/) about synergies between our projects...
+We have had discussions with the following [NSF CA projects](https://www.nsf.gov/od/oia/convergence-accelerator/) about synergies between our projects.
 
 <h3>Project D-462</h3>
 
@@ -249,7 +249,7 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 
 **Sponsor: 	University of California-San Diego**
 
--Ilkay Altintas (Principal Investigator)
+- Ilkay Altintas (Principal Investigator)
 - Yolanda Gil (Co-Principal Investigator)
 - John Hiers (Co-Principal Investigator)
 - Rodman Linn (Co-Principal Investigator)

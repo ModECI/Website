@@ -1,6 +1,6 @@
 # About the ModECI project
 
-ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration and currently involves: 
+ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration and currently involves:
 
 - **Princeton Neuroscience Institute**
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;PI: Jonathan D. Cohen; Nicol Killian
@@ -11,9 +11,12 @@ ModECI (Model Exchange and Convergence Initiative) is a multi-investigator colla
 - **Yale Computer Science Department**
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;Abhishek Bhattacharjee
 - **Intel Labs**
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;Ted Willke 
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;Ted Willke
 
-We are also seeking collaboration with members of the broader community. Please get in contact with us (*info -at- modeci.org*) for more information. 
+
+<h2>Get in contact</h2>
+
+We are keen to collaborate with members of the broader community. Please get in contact with us for more information. We're at **info -at- modeci.org**.
 
 
 <h2>Funding</h2>
