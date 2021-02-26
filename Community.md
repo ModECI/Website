@@ -71,7 +71,6 @@ Experts in several areas including Python, PyTorch, and IR discussed the potenti
 
 Attendees:
 - Dr. Ryan Adams, Princeton
--
 - Dr. Jim Pivarski, Princeton
 - Dr. Carole Jean Wu, FAIR
 - Michael Suo,  FAIR
