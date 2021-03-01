@@ -252,3 +252,18 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - Yolanda Gil (Co-Principal Investigator)
 - John Hiers (Co-Principal Investigator)
 - Rodman Linn (Co-Principal Investigator)
+
+<h3>Project 735</h3>
+
+[Rapid Development of Intelligent, Built Environment Geo-Databases Using AI and Data-Driven Models](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040735&HistoricalAwards=false)
+
+**Sponsor: Oregon State University**
+
+- Yelda Turkan (Principal Investigator)
+- Yong Cho (Co-Principal Investigator)
+- Michael Olsen (Co-Principal Investigator)
+- Fuxin Li (Co-Principal Investigator)
+- Roger Chen (Co-Principal Investigator)
+
+
+
