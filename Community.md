@@ -265,5 +265,38 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - Fuxin Li (Co-Principal Investigator)
 - Roger Chen (Co-Principal Investigator)
 
+<h3> Project 532</h3>
+
+[ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040532&HistoricalAwards=false)
+
+
+**Sponsor: University of Iowa**
+
+- Stephen Baek (Principal Investigator)
+- Daniel Rubin (Co-Principal Investigator)
+- William Street (Co-Principal Investigator)
+- Xiaodong Wu (Co-Principal Investigator)
+- Paul Chang (Co-Principal Investigator)
+
+<h3> Project 521</h3>
+
+[Application of Sequential Inductive Transfer Learning for Experimental Metadata Normalization to Enable Rapid Integrative Analysis](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040521&HistoricalAwards=false)
+
+**Sponsor: Research Triangle Institute**
+
+- Grier Page(Principal Investigator)
+- Xiangqin Cui (Co-Principal Investigator)
+- Yun Wang (Co-Principal Investigator)
+
+<h3> Project 702</h3>
+
+[Cloud-Accessible Integrated Quantum Simulator Based on Programmable Atom Arrays](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040702&HistoricalAwards=false)
+
+**Sponsor: Columbia University**
+
+- Sebastian Will (Principal Investigator)
+- Alexander Gaeta (Co-Principal Investigator)
+- Nanfang Yu (Co-Principal Investigator)
+- Layla Hormozi (Co-Principal Investigator)
 
 
