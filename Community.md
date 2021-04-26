@@ -122,6 +122,39 @@ Attendees
 - Dave Turner, Princeton Neuroscience Institute
 - Jan Vesely, Princeton Neuroscience Institute
 
+<h3>Quantum Computing and Cognitive Focus Group Workshop</h3>
+
+**April 9, 2021**
+
+The ModECI team hosted their third domain-specific focus group workshop, working with the quantum computing community.  The objective of this workshop was to explore the capacity for MDF to use quantum technology.  The group identified several areas for convergence and collaborative efforts were solidified.
+
+Attendees
+- Dr. Lev Bishop, IBM
+- Dr. Ali Javadi-Abhari, IBM
+- Dr. Tom Marshall, Bloomberg
+- Andras Bako, Bloomberg
+- Dr. Pranav Gokhale, Super.tech
+- Victory Omole, Super.tech
+- Teague Tomesh, Super.tech and Princeton University
+- Dr. Kaitlyn Smith, Unversity of Chicago
+- Dr. Gokul Ravi, University of Chicago
+- Dr. Rich Rines, University of Chicago
+- Yongshan Ding, University of Chicago
+- Dr. Sebastian Will, Columbia University
+- Dr. Minho Kwon, Columbia University
+- Max Aalto, Columbia University
+- Dr. Mahmut Taylan Kandemir, Penn State University
+- Dr. Swaroop Ghosh, Penn State University
+- Dr. Jonathan Cohen,  Princeton Neuroscience Institute
+- Dr. Abhishek Bhattacharjee, Yale University
+- Dr. Padraig Gleeson,  University College of London
+- Dr. Ted Willke, Intel
+- Dr. Tal Yarkoni, University of Texas
+- Dr. Raghav Pothukuchi, Yale University
+- Patrick Stock, Princeton Neuroscience Institute
+- Dave Turner, Princeton Neuroscience Institute
+- Mike Pozmantier, NSF
+- Dr. Chaitanya Baru, NSF
 
 
 
