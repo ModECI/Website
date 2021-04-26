@@ -3,7 +3,7 @@
 ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration and currently involves:
 
 - **Princeton Neuroscience Institute**
-    <br/>&nbsp;&nbsp;&nbsp;&nbsp;PI: Jonathan D. Cohen; Nicol Killian
+    <br/>&nbsp;&nbsp;&nbsp;&nbsp;PI: Jonathan D. Cohen
 - **The University of Texas at Austin**
     <br/>&nbsp;&nbsp;&nbsp;&nbsp;Tal Yarkoni
 - **University College London**
