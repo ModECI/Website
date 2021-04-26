@@ -31,7 +31,7 @@ Attendees:
 - Dr. Padraig Gleeson, University College of London
 - Dr. Ted Willke,	Intel
 - Dr. Tal Yarkoni,	University of Texas
-- Raghav Pothukuchi, Yale University
+- Dr. Raghav Pothukuchi, Yale University
 - Katherine Mantel,	Princeton Neuroscience Institute
 - Jeremy Lee,	Princeton Neuroscience Institute
 - Dave Turner,	Princeton Neuroscience Institute
@@ -56,7 +56,7 @@ Attendees:
 - Dr. Padraig Gleeson,  University College of London
 - Dr. Tal Yarkoni, University of Texas
 - Jeremy Lee, Princeton Neuroscience Institute
-- Raghav Pothukuchi,  Yale University
+- Dr. Raghav Pothukuchi,  Yale University
 - Jan Vesely, Princeton Neuroscience Institute
 
 
@@ -126,7 +126,7 @@ Attendees
 
 **April 9, 2021**
 
-The ModECI team hosted their third domain-specific focus group workshop, working with the quantum computing community.  The objective of this workshop was to explore the capacity for MDF to use quantum technology.  The group identified several areas for convergence and collaborative efforts were solidified.
+The ModECI team hosted their fourth domain-specific focus group workshop, working with the quantum computing community.  The objective of this workshop was to explore the capacity for MDF to use quantum technology.  The group identified several areas for convergence and collaborative efforts were solidified.
 
 Attendees
 - Dr. Lev Bishop, IBM
@@ -156,8 +156,24 @@ Attendees
 - Mike Pozmantier, NSF
 - Dr. Chaitanya Baru, NSF
 
+<h3>Open-source Focus Group Workshop</h3>
 
+**April 24, 2021**
 
+The ModECI team hosted their final focus group workshop. The goal was to examine options for an open-source exposure.  Suggestions from the participants included: joining professional group forums such as the International Neuroinformatics Coordinating Facility (INCF), development of strong governance model for the initiative, and hosting activities such as a "hackathon" to solicit community engagement while also stirring community excitement.
+
+Attendees
+
+- Dr. Maryann Martone, University of California, San Diego
+- Dr. Russ Poldrack, Stanford University
+- Mike Pozmantier, NSF
+- Dr. Jonathan Cohen,  Princeton Neuroscience Institute
+- Dr. Abhishek Bhattacharjee, Yale University
+- Dr. Padraig Gleeson,  University College of London
+- Dr. Ted Willke, Intel
+- Dr. Tal Yarkoni, University of Texas
+- Patrick Stock, Princeton Neuroscience Institute
+- Dave Turner, Princeton Neuroscience Institute
 
 
 <h2>NSF Convergence Accelerator projects</h2>
