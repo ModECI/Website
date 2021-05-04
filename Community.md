@@ -180,6 +180,17 @@ Attendees
 
 We have had discussions with the following [NSF CA projects](https://www.nsf.gov/od/oia/convergence-accelerator/) about synergies between our projects.
 
+<h3>Project D-727</h3>
+
+[Towards Intelligent Sharing and Search for AI Models and Datasets](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040727&HistoricalAwards=false )
+
+**Sponsor: University of California-San Diego**
+- Jingbo Shang (Principal Investigator)
+- Rajesh Gupta (Co-Principal Investigator)
+- Lucila Ohno-Machado (Co-Principal Investigator)
+- Arun Kumar (Co-Principal Investigator)
+- Giorgio Quer (Co-Principal Investigator)
+
 <h3>Project D-462</h3>
 
 [Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040462&HistoricalAwards=false)
