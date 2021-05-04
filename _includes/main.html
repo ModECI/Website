@@ -1,0 +1,124 @@
+<!-- Navigation -->
+    <div class="navbar-top">
+        <p>Supported by <a href="{{site.nsfLink}}" target="_blank">NSF Convergence <img src="img/arrow_forward.png"> &
+            Accelerator <img src="img/arrow_forward.png"></a>
+        </p>
+    </div>
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <img src="img/logo.png" alt="headerlogoIcon" width="48">
+                    <img src="img/header-ModECI.png" alt="header-ModECI">
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#home">Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#motivation">Motivation</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#mdf">MDF</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#community">Community</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                </ul>
+                <ul class="navbar-right">
+                    <li>
+                        <a class="navlink-github" href="{{site.githubLink}}" target="_blank">See on Github</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll navlink-contact" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header id="home">
+        <div class="container">
+            <div class="intro-logo">
+                <img src="img/logo.png" alt="bannerLogoicon" width="100">
+            </div>
+            <div class="intro-text">
+                <div class="intro-lead-in">Model Exchange<br>
+                    & Convergence Initiative</div>
+                <div class="intro-heading">{{site.description}}</div>
+                <div class="intro-actions">
+                    {% for link in site.links %}
+                    <a href="#" class="page-scroll btn">
+                        <img src="img/banner-icons_circle-check.png" alt="banner-icons">{{link}}
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="homePatteren">
+            <div class="container">
+                <a href="#psyneulinkLogo"  class="psyneulinkLogo anchor-scroll">
+                    <img src="img/psyneulinkLogo.png" alt="psyneulinkLogo">
+                </a>
+                <a href="#" class="cognitiveScience whitePattern">
+                    <span>Cognitive Science</span>
+                </a>
+                <a href="#neuroML" class="neuroML grayPattern anchor-scroll">
+                    NeuroML format
+                </a>
+                <a href="#" class="modelDescriptionFormat">
+                    Model Description Format
+                </a>
+                <a href="#" class="computationalNeuroscience whitePattern">
+                    <span>Computational Neuroscience</span>
+                </a>
+                <a href="#" class="tensorFLowLogo grayPattern">
+                    <img src="img/tensorFLowLogo.png" alt="tensorFLowLogo">
+                </a>
+                <a href="#" class="machineLearning whitePattern">
+                    <span>Machine Learning</span>
+                </a>
+                <a href="#" class="pytoracLogo grayPattern">
+                   <img src="img/pytoracLogo.png" alt="pytoracLogo">
+                </a>
+                <a href="#" class="theVirtualBrainLogo grayPattern">
+                    <img src="img/theVirtualBrainLogo.png" alt="theVirtualBrainLogo">
+                    <span>The Virtual Brain</span>
+                </a>
+                <a href="#" class="neuronSimulator grayPattern">
+                    NEURON Simulator
+                </a>
+                <a href="#" class="onnxFormat grayPattern">
+                    .onnx format
+                </a>
+                <a href="#" class="manymore">
+                    and many more...
+                </a>
+            </div>
+        </div>
+    </header>
+<!--
+        {% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}
+ -->
