@@ -4,11 +4,11 @@
             <div class="row">
                 <div class="col-xs-12 col-lg-offset-3 col-lg-6 text-center">
                     <h2 class="section-heading">Why is this necessary?</h2>
-                    <h3 class="section-subheading text-muted">
-                        The fields of <span>neuroscience, cognitive science</span> and <span>machine learning</span> all develop and examine models which process information, which are to varying degrees inspired by circuits in the brain. All of these use computational graphs as important elements of their models. However, these fields use different software tools to build, analyse and simulate the models making transfer of knowledge and insights difficult. There is a pressing need for a common model description format is prevalent which will allow ideas to be exchanged between researchers in these domains.
-                    </h3>
-                    
-                    <h3 class="section-subheading text-muted">Currently, there are no existing standards that fully meet the identified need. The closest standard, ONNX, is focused more on providing an intermediate representation (IR) for compilation and optimization rather than exchange. It does not naturally support hierarchical structure or general interpretable process control. NeuroML is model description format for biologically inspired neuronal networks, but is not currently used for more abstract networks and graphs used in machine learning applications.</h3>
+                    {% for point in site.data.motivation.motivationIntro %}
+                        <h3 class="section-subheading text-muted">
+                            {{point.para}}
+                        </h3>
+                    {% endfor %}
                 </div>
             </div>
             <div class="row text-center">
