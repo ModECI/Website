@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 body {
     overflow-x: hidden;
-    font-family:'GraphikRegular', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
     background: #060e22;
 }
@@ -274,6 +276,7 @@ fieldset[disabled] .btn-xl.active {
     font-family:'GraphikLight', sans-serif;
     font-size: 12px;
     padding: 5px 30px;
+    margin: 0;
     color: rgba(255, 255, 255, 0.6);
 }
 .navbar-top p a {
@@ -340,18 +343,21 @@ header .container {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family:'GraphikMedium', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
     font-size: 20px;
     line-height: 22px;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    font-family:'GraphikLight', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
     font-size: 16px;
 }
 header .intro-actions a {
-    font-family:'GraphikLight', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
     color: #fff;
     padding: 0 10px;
     font-size: 13px;
@@ -364,7 +370,8 @@ header .homePatteren .container {
     position: relative;
 }
 header .homePatteren .container a {
-    font-family:'GraphikRegular', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
     position: absolute;
 }
 header .homePatteren .container a:hover {
@@ -412,7 +419,8 @@ header .homePatteren .modelDescriptionFormat {
     box-shadow: 0px 0px 0px 4px rgba(255, 255, 255, 0.1);
     border-radius: 4px;
     color: #fff;
-    font-family: 'GraphikSemiBold', sans-serif !important;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600;
     font-size: 14px;
     padding: 8px 16px;
     left: 495px;
