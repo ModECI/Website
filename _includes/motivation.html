@@ -1,0 +1,32 @@
+<!-- Motivation Section -->
+    <section id="motivation">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-lg-offset-3 col-lg-6 text-center">
+                    <h2 class="section-heading">Why is this necessary?</h2>
+                    {% for point in site.data.motivation.motivationIntro %}
+                        <h3 class="section-subheading text-muted">
+                            {{point.para}}
+                        </h3>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="row text-center">
+              
+                <div class="col-xs-12 col-lg-offset-3 col-lg-6 card-col">
+                    <div class="card">
+                        <span class="card-icon">
+                            <img src="img/mdf.png" alt="mdf-logo" width="50">
+                        </span>
+                        <p>{{site.data.motivation.mdfIntro}}:</p>
+                        <ul>
+                            {% for point in site.data.motivation.mdfPoints %}
+                                <li>{{point.point}}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </section>
