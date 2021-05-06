@@ -507,7 +507,114 @@ header .homePatteren {
         color: rgba(255, 255, 255, 0.6);
     }
 }
+section {
+    padding: 100px 0;
+}
 
+section h2.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    text-transform: none;
+    background: -webkit-linear-gradient(top, rgba(88,83,246,1) 0%,rgba(59,240,228,1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+section h3.section-subheading {
+    margin: 40px 0 0;
+    text-transform: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.6);
+}
+section h3.section-subheading ~ h3.section-subheading.text-muted {
+    margin: 25px 0 0;
+}
+section h3.section-subheading span {
+    color: #fff;
+}
+.card {
+    position: relative;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 10px;
+    margin: 80px 0 0;
+    top: -30px;
+}
+.card-col .card:before {
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    border-radius: 10px;
+    border: 5px solid transparent;
+    background: -webkit-linear-gradient(top, rgba(88,83,246,1) 0%,rgba(59,238,228,0.14) 70%,rgba(59,240,228,0.14) 71%,rgba(59,240,228,0.05) 98%,rgba(59,240,228,0.02) 99%) border-box;
+    mask: /*4*/
+    linear-gradient(#fff 0 0) padding-box, 
+    linear-gradient(#fff 0 0);
+    -webkit-mask: /*4*/
+    linear-gradient(#fff 0 0) padding-box, 
+    linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    -webkit-mask-composite: xor;
+}
+.card p {
+    position: relative;
+    z-index: 30;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: left;
+    padding: 20px 20px 15px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.card .card-icon {
+    margin: 0 20px;
+    padding: 20px;
+    display: block;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    position: relative;
+    z-index: 30;
+}
+.card ul {
+    list-style: none;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    color: #fff;
+    margin: 0;
+    position: relative;
+    z-index: 30;
+    padding: 0 20px 30px;
+    min-height: 200px;
+}
+.card ul li {
+    margin: 16px 0 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    display: flex;
+}
+.card ul li.disabled {
+    opacity: 0.3;
+} 
+.card ul li:before {
+    flex: none;
+    content: "";
+    width: 4px;
+    height: 4px;
+    border-radius: 100%;
+    background: linear-gradient(95.02deg, #5853F6 0%, #2188FF 100%);
+    order: 0;
+    flex-grow: 0;
+    margin: 5px 10px 0 0;
+}
 /* end theme */
 
 .btn:focus,
