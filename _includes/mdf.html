@@ -20,22 +20,15 @@
                 <div class="mdf-tabInner">
                     <h4 class="mdf-heading4">Supported elements</h4>
                     <ul class="nav nav-tabs mdf-tabs">
+                        <li class="active"><a data-toggle="tab" href="#all">All</a></li>
                         {% for element in site.elements %}
-                            {% if forloop.first %}
-                                <li class="active"><a data-toggle="tab" href="#{{element.anchor}}">{{element.title}}</a></li>
-                            {% else %}
-                                <li><a data-toggle="tab" href="#{{element.anchor}}">{{element.title}}</a></li>
-                            {% endif %}
+                            <li><a data-toggle="tab" href="#{{element.anchor}}">{{element.title}}</a></li>
                         {% endfor %}
                     </ul>
 
                     <div class="tab-content mdf-tabContent">
-                        {% for element in site.elements %}
-                            {% if forloop.first %}
-                                <div id={{element.anchor}} class="tab-pane fade in active">
-                            {% else %}
-                                <div id={{element.anchor}} class="tab-pane fade">
-                            {% endif %}
+                        <div id="all" class="tab-pane fade in active">
+                            {% for element in site.elements %}
                                 {% for element in element.options %}
                                     <div class="row">
                                         <div class="col-xs-12 col-md-3">
@@ -50,7 +43,25 @@
                                         </div>
                                     </div>
                                 {% endfor %}
+                            {% endfor %}
+                        </div>
+                        {% for element in site.elements %}
+                            <div id={{element.anchor}} class="tab-pane fade">
+                            {% for element in element.options %}
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-3">
+                                        <a id="{{element.id}}">{{element.title}}</a>
+                                    </div>
+                                    <div class="col-xs-12 col-md-9">
+                                        <p>{{element.description}}</p>
+                                        <a href="{{element.url}}" target="_blank" class="mdf-tabBtn">
+                                            Open website
+                                            <img src="img/iconChevron_right.svg" alt="icon">
+                                        </a>
+                                    </div>
                                 </div>
+                            {% endfor %}
+                            </div>
                         {% endfor %}
                     </div>
                 </div>

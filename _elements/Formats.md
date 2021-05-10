@@ -4,13 +4,27 @@ anchor: formats
 options: [
   {
     url: "http://google.com",
+    title: "Model Description Format",
+    id: "modelDescriptionFormat",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "https://onnx.ai/",
     title: ".onxx format",
+    id: "onnx",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
     url: "http://google.com",
     title: "Pysnolink",
+    id: "psyneulink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  }
+  },
+  {
+    url: "http://google.com",
+    title: "Virtual Brain",
+    id: "thevirtualbrain",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
 ]
 ---
