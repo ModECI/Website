@@ -191,37 +191,6 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - Arun Kumar (Co-Principal Investigator)
 - Giorgio Quer (Co-Principal Investigator)
 
-<h3>Project D-462</h3>
-
-[Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040462&HistoricalAwards=false)
-
-**Sponsor: Vanderbilt University**
-- Bennett Landman (Principal Investigator)
-- Cheryl Carey (Co-Principal Investigator)
-- Ipek Oguz (Co-Principal Investigator)
-- Steve Langer (Co-Principal Investigator)
-- Leon Chen (Co-Principal Investigator)
-
-<h3>Project D-588</h3>
-
-[A Trusted Integrative Model and Data Sharing Platform for Accelerating AI-Driven Health Innovation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040588&HistoricalAwards=false)
-
-**Sponsor: Duke University**
-- Hai Li (Principal Investigator)
-- C. David Page (Co-Principal Investigator)
-- Heng Huang (Co-Principal Investigator)
-- Lawrence Carin (Co-Principal Investigator)
-- Wei Chen (Co-Principal Investigator)
-
-<h3>Project D-718</h3>
-
-[The Data Hypervisor: Orchestrating Data and Models](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040718&HistoricalAwards=false)
-
-**Sponsor: University of Chicago**
-- Ian Foster (Principal Investigator)
-- Michael Franklin (Co-Principal Investigator)
-- Raul Castro Fernandez (Co-Principal Investigator)
-- Sendhil Mullainathan (Co-Principal Investigator)
 
 <h3>Project FM26</h3>
 
@@ -260,26 +229,6 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - David Smith (Co-Principal Investigator)
 - Ethan Jackson (Co-Principal Investigator)
 
-<h3>Project D-680</h3>
-
-[Data-Driven Disease Control and Prevention in Veterinary Health](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040680&HistoricalAwards=false)
-
-**Sponsor: University of California-Davis**
-
-- Beatriz Martinez Lopez (Principal Investigator)
-- Xin Liu (Co-Principal Investigator)
-- Maria Clavijo (Co-Principal Investigator)
-
-<h3>Project D-613</h3>
-
-[America's Water Risk: Water System Data Pooling for Climate Vulnerability Assessment and Warning System](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040613&HistoricalAwards=false)
-
-**Sponsor: Columbia University**
-
-- Upmanu Lall (Principal Investigator)
-- Casey Brown (Co-Principal Investigator)
-- Kenneth Kunkel (Co-Principal Investigator)
-- Scott Steinschneider (Co-Principal Investigator)
 
 <h3>Project D-665</h3>
 
@@ -291,27 +240,6 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - Qiang (Shawn) Cheng (Co-Principal Investigator)
 - Jale Tezcan (Co-Principal Investigator)
 
-<h3>Project D-638</h3>
-
-[Data & AI Methods for Modeling Facial Expressions in Language with Applications to Privacy for the Deaf, ASL Education & Linguistic Res](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040638&HistoricalAwards=false)
-
-**Sponsor: 	Rutgers University New Brunswick**
-
-- Dimitris Metaxas (Principal Investigator)
-- Carol Neidle (Co-Principal Investigator)
-- Matt Huenerfauth (Co-Principal Investigator)
-- Mariapaola D'Imperio (Co-Principal Investigator)
-
-<h3>Project 676</h3>
-
-[Artificial Intelligence and Community Driven Wildland Fire Innovation via a WIFIRE Commons Infrastructure for Data and Model Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040676&HistoricalAwards=false)
-
-**Sponsor: 	University of California-San Diego**
-
-- Ilkay Altintas (Principal Investigator)
-- Yolanda Gil (Co-Principal Investigator)
-- John Hiers (Co-Principal Investigator)
-- Rodman Linn (Co-Principal Investigator)
 
 <h3>Project 735</h3>
 
@@ -338,15 +266,6 @@ We have had discussions with the following [NSF CA projects](https://www.nsf.gov
 - Xiaodong Wu (Co-Principal Investigator)
 - Paul Chang (Co-Principal Investigator)
 
-<h3> Project 521</h3>
-
-[Application of Sequential Inductive Transfer Learning for Experimental Metadata Normalization to Enable Rapid Integrative Analysis](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2040521&HistoricalAwards=false)
-
-**Sponsor: Research Triangle Institute**
-
-- Grier Page(Principal Investigator)
-- Xiangqin Cui (Co-Principal Investigator)
-- Yun Wang (Co-Principal Investigator)
 
 <h3> Project 702</h3>
 
