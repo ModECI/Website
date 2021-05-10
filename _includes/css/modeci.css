@@ -912,6 +912,67 @@ section h3.section-subheading span {
 .panel-group .panel-default>.panel-heading a span ~ span {
     display: block;
 }
+.about-team {
+    position: relative;
+    z-index: 100;
+}
+.about-team .about-teamRow {
+    display: flex;
+    align-items: center;
+    margin: 0 0 24px;
+}
+.about-team .about-teamContent {
+    flex: 1;
+}
+.about-team .about-teamContent h5 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #fff;
+    margin: 0;
+    text-transform: none;
+}
+.about-team .about-teamContent p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0;
+}
+.about-team .about-teamImg {
+    position: relative;
+    border-radius: 100%;
+    flex: none;
+    width: 56px;
+    height: 56px;
+    margin: 0 20px 0 0;
+    overflow: hidden;
+}
+.about-team .about-teamImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.about-team .about-teamImg:before {
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    border-radius: 100%;
+    border: 3px solid transparent;
+    background: linear-gradient(95.02deg, #5853F6 0%, #2188FF 100%) border-box;
+    mask:
+        linear-gradient(#fff 0 0) padding-box,
+        linear-gradient(#fff 0 0);
+    -webkit-mask:
+        linear-gradient(#fff 0 0) padding-box,
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite: destination-out;
+    mask-composite: exclude;
+    -webkit-mask-composite: xor;
+}
 /* end theme */
 
 .btn:focus,
