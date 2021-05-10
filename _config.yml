@@ -8,6 +8,11 @@ description: ModECI (Model Exchange and Convergence Initiative) is a multi-inves
 githubLink: https://github.com/ModECI/Website
 nsfLink: https://www.nsf.gov/od/oia/convergence-accelerator/
 
+# Collections
+collections:
+  - communities
+  - elements
+
 # Build settings
 markdown: kramdown
 permalink: pretty
