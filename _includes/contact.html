@@ -24,9 +24,12 @@
                             <div class="col-xs-12">
                                 <div class="form-group">
                                     <select class="rev-select-box" id="careerStage" name="careerStage" autocomplete="off">
-                                        <option value="" selected>Career Stage</option>
                                         {% for stage in site.data.contact.careerStage %}
+                                            {% if forloop.first %}
+                                            <option value="{{stage.value}}" selected>{{stage.display}}</option>
+                                            {% else %}
                                             <option value="{{stage.value}}">{{stage.display}}</option>
+                                            {% endif %}
                                         {% endfor %}
                                     </select>
                                 </div>
@@ -34,9 +37,12 @@
                             <div class="col-xs-12">
                                 <div class="form-group">
                                     <select class="rev-select-box" id="experience" name="experience" autocomplete="off">
-                                        <option value="" selected>How much programming experience do you have?</option>
                                         {% for stage in site.data.contact.programmingExperience %}
+                                            {% if forloop.first %}
+                                            <option value="{{stage.value}}" selected>{{stage.display}}</option>
+                                            {% else %}
                                             <option value="{{stage.value}}">{{stage.display}}</option>
+                                            {% endif %}
                                         {% endfor %}
                                     </select>
                                 </div>
@@ -44,9 +50,12 @@
                             <div class="col-xs-12">
                                 <div class="form-group">
                                     <select class="rev-select-box" id="researchField" name="researchField" autocomplete="off">
-                                        <option value="" selected>What field(s) of research do you work in?</option>
                                         {% for stage in site.data.contact.researchField %}
+                                            {% if forloop.first %}
+                                            <option value="{{stage.value}}" selected>{{stage.display}}</option>
+                                            {% else %}
                                             <option value="{{stage.value}}">{{stage.display}}</option>
+                                            {% endif %}
                                         {% endfor %}
                                     </select>
                                 </div>

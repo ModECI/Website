@@ -1,5 +1,9 @@
 careerStage: [
   {
+    display: "Career Stage",
+    value: ""
+  },
+  {
     display: "Trainee (e.g., grad student, postdoc)",
     value: "Trainee"
   },
@@ -21,6 +25,10 @@ careerStage: [
   },
 ]
 programmingExperience: [
+  {
+    display: "How much programming experience do you have?",
+    value: ""
+  },
   { display: None,
     value: None
   },
@@ -35,6 +43,10 @@ programmingExperience: [
   },
 ]
 researchField: [
+  {
+    display: "What field(s) of research do you work in?",
+    value: ""
+  },
   {
     display: Neuroscience,
     value: Neuroscience
