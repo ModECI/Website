@@ -7,9 +7,9 @@ layout: policy
 
 <h2><strong>Terms and Conditions</strong></h2>
 
-<p>Welcome to modeci.github.io!</p>
+<p>Welcome to ModECI!</p>
 
-<p>These terms and conditions outline the rules and regulations for the use of ModECI's Website, located at https://modeci.github.io/Website.</p>
+<p>These terms and conditions outline the rules and regulations for the use of ModECI's Website, located at <a href="https://modeci.github.io/{{site.baseurl}}">https://modeci.github.io/{{site.baseurl}}</a>.</p>
 
 <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use modeci.github.io if you do not agree to take all of the terms and conditions stated on this page.</p>
 
@@ -33,7 +33,7 @@ layout: policy
     <li>Redistribute content from modeci.github.io</li>
 </ul>
 
-<p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.termsandconditionsgenerator.com">Terms And Conditions Generator</a> and the <a href="https://www.generateprivacypolicy.com">Privacy Policy Generator</a>.</p>
+<p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.termsandconditionsgenerator.com" target="_blank">Terms And Conditions Generator</a> and the <a href="https://www.generateprivacypolicy.com" target="_blank">Privacy Policy Generator</a>.</p>
 
 <p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. ModECI does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of ModECI,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, ModECI shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
 
