@@ -1297,6 +1297,45 @@ section h3.section-subheading span {
     margin: 15px 0;
     text-transform: none;
 }
+.privacy-policy {
+    margin-top: 150px;
+    padding: 30px;
+}
+.privacy-policy p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.privacy-policy h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    text-transform: none;
+    line-height: 43px;
+    color: #FFF;
+    margin: 0 0 16px;
+}
+.privacy-policy h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: none;
+    line-height: 43px;
+    color: #FFF;
+    margin: 0 0 16px;
+}
+.privacy-policy ul li {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.privacy-policy p a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: underline;
+}
+
 /* end theme */
 
 .btn:focus,
