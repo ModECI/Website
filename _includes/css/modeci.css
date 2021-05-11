@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
 body {
     overflow-x: hidden;
     font-family: 'Inter', sans-serif;
@@ -173,7 +171,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
     color: #{{ site.data.template.color.primary }};
     padding: 0 15px;
     display: flex;
@@ -214,8 +213,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: none;
-    font-family:'GraphikLight', sans-serif;
-    font-weight: normal;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
     letter-spacing: 1px;
     font-size: 13px;
     color: rgba(255, 255, 255, 0.6);
@@ -247,12 +246,14 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-right a {
     border-radius: 16px;
-    font-family:'GraphikRegular', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
     font-size: 13px;
     color: #FFF;
     padding: 8px 12px;
     margin: 0 0 10px;
     display: inline-block;
+    white-space: nowrap;
 }
 .navbar-right .navlink-github {
     background: rgba(255, 255, 255, 0.1);
@@ -273,14 +274,16 @@ fieldset[disabled] .btn-xl.active {
     background: -webkit-linear-gradient(left, rgba(13,19,48,1) 49%,rgba(30,37,88,1) 29%,rgba(13,19,48,1) 14%,rgba(10,20,34,1) 100%);
 }
 .navbar-top p {
-    font-family:'GraphikLight', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
     font-size: 12px;
     padding: 5px 30px;
     margin: 0;
     color: rgba(255, 255, 255, 0.6);
 }
 .navbar-top p a {
-    font-family:'GraphikRegular', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
     color: #fff;
 }
 .navbar-top p a img {
@@ -297,6 +300,7 @@ fieldset[disabled] .btn-xl.active {
     }
     .navbar-nav {
         margin: auto;
+        padding-left: 136px;
     }
     .navbar-right a {
         margin: 0;
@@ -527,9 +531,9 @@ section h3.section-subheading {
     margin: 40px 0 0;
     text-transform: none;
     font-family: 'Inter', sans-serif;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 18px;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
     color: rgba(255, 255, 255, 0.6);
 }
 section h3.section-subheading ~ h3.section-subheading.text-muted {
@@ -672,6 +676,7 @@ section h3.section-subheading span {
     color: #FFF;
     display: block;
     padding: 4px 12px;
+    white-space: nowrap;
 }
 .mdf-paragraph {
     margin: 24px 0 0;
