@@ -16,15 +16,15 @@ options: [
     ]
   },
   {
-    name: Project FM26,
-    date: "Manufacturing ADvanced Electronics through Printing Using Bio-based and Locally Identifiable Compounds (MADE-PUBLIC)",
-    description: "",
-    listHeading: "Sponsor: University of Chicago",
+    name: Project 688,
+    description: "Deep Monitoring of the Biome Will Converge Life Sciences, Policy, and Engineering",
+    listHeading: "Sponsor: Vanderbilt University",
     list: [
-      "Dr. John Laird, Soar/Common Model",
-      "Dr. Pat Langley, ICARUS",
-      "Dr. Christian Lebiere, ACT-R",
-      "Dr. Rick Lewis, ACT-R/Soar/CORE"
+      "Janos Sztipanovits (Principal Investigator)",
+      "James Pipas (Co-Principal Investigator)",
+      "Douglas Norris (Co-Principal Investigator)",
+      "David Smith (Co-Principal Investigator)",
+      "Ethan Jackson (Co-Principal Investigator)"
     ]
   }
 ]
