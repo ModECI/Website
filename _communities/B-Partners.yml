@@ -3,14 +3,16 @@ title: Partners
 anchor: partners
 options: [
   {
-    name: Project D-588,
-    date: "The Data Hypervisor: Orchestrating Data and Models",
-    description: "",
-    listHeading: "Sponsor: University of Chicago",
+    name: Project D-727
+    date: 
+    description: "Towards Intelligent Sharing and Search for AI Models and Datasets",
+    listHeading: "Sponsor: University of California-San Diego",
     list: [
-      "Ian Foster (Principal Investigator)",
-      "Michael Franklin (Co-Principal Investigator)",
-      "Raul Castro Fernandez (Co-Principal Investigator)",
+      "Jingbo Shang (Principal Investigator)",
+      "Rajesh Gupta (Co-Principal Investigator)",
+      "Lucila Ohno-Machado (Co-Principal Investigator)",
+      "Arun Kumar (Co-Principal Investigator)",
+      "Giorgio Quer (Co-Principal Investigator)" 
     ]
   },
   {
