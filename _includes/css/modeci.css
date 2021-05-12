@@ -168,6 +168,7 @@ fieldset[disabled] .btn-xl.active {
     -webkit-backdrop-filter: blur(50px);
     background-size: cover;
     background-position: center;
+    margin-top: -1px;
 }
 
 .navbar-default .navbar-brand {
@@ -962,6 +963,7 @@ section h3.section-subheading span {
     content:"";
     position:absolute;
     top:0;
+    mix-blend-mode: soft-light;
     left:0;
     right:0;
     bottom:0;
@@ -1116,8 +1118,9 @@ section h3.section-subheading span {
     position: absolute;
     opacity: 0;
     cursor: pointer;
-    height: 0;
-    width: 0;
+    left: 0;
+    top: 0;
+    z-index: 50;
 }
 .checkmark {
     position: absolute;
