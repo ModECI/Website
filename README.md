@@ -1,4 +1,4 @@
-<p><img alt="ModECI" src="img/logo.png" width="600" align="centre"/></p>
+<p><img alt="ModECI" src="img/logo-with-caption.png" width="200" height="200" align="centre"/></p>
 
 ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration that aims to 
 develop a standardized format for exchanging computational models among neuroscience, 
