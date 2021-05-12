@@ -1295,6 +1295,8 @@ section h3.section-subheading span {
         display: flex;
         justify-content: space-between;
     }
+}
+@media(min-width:1000px) {
     .mdf-content-sticky {
         position: sticky;
         top: 150px;
