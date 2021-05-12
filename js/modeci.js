@@ -8,14 +8,9 @@
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
-        var pathname = window.location.pathname;
-        if(pathname.includes('privacy_policy')){
-            window.location = window.origin + pathname.split('privacy_policy')[0] + $anchor.attr('href')
-        } else {
-            $('html, body').stop().animate({
-                scrollTop: $($anchor.attr('href')).offset().top
-            }, 1500, 'easeInOutExpo');
-        }
+        $('html, body').stop().animate({
+            scrollTop: $("#"+$anchor.attr('href').split('#')[1]).offset().top
+        }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
 });
