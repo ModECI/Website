@@ -3,7 +3,9 @@ title: Privacy Policy
 layout: policy
 ---
 
-<div class="privacy-policy">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 privacy-policy">
 
 <h2><strong>Terms and Conditions</strong></h2>
 
@@ -128,5 +130,6 @@ layout: policy
 <p>The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.</p>
 
 <p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
-
+</div>
+</div>
 </div>
