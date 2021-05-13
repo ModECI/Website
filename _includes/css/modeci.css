@@ -1084,6 +1084,7 @@ section h3.section-subheading span {
     font-weight: 300;
     font-size: 13px;
     color: #fff;
+    cursor: pointer;
 }
 .contact-formData {
     display: flex;
