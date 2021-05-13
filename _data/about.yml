@@ -21,5 +21,17 @@ teamMembers: [
   {
     name: Ted Willke,
     from: Intel Labs
+  },
+  {
+    name: Sharon Crook,
+    from: Arizona State University
+  },
+  {
+    name: Pranav Gokhale,
+    from: Super.tech
+  },
+  {
+    name: Terrence Stewart,
+    from: "National Research Council Canada; University of Waterloo Collaboration Centre"
   }
 ]
