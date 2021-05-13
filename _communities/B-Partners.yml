@@ -4,7 +4,7 @@ anchor: partners
 options: [
   {
     name: Project D-727,
-    date: "",
+    subTitle: "",
     description: "Towards Intelligent Sharing and Search for AI Models and Datasets",
     listHeading: "Sponsor: University of California-San Diego",
     list: [
@@ -17,6 +17,7 @@ options: [
   },
   {
     name: Project 688,
+    subTitle: "",
     description: "Deep Monitoring of the Biome Will Converge Life Sciences, Policy, and Engineering",
     listHeading: "Sponsor: Vanderbilt University",
     list: [

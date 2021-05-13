@@ -4,7 +4,7 @@ anchor: nsfProjects
 options: [
   {
     name: Project D-727,
-    date: "Towards Intelligent Sharing and Search for AI Models and Datasets",
+    subTitle: "Towards Intelligent Sharing and Search for AI Models and Datasets",
     description: "",
     listHeading: "Sponsor: University of California-San Diego",
     list: [
@@ -14,7 +14,7 @@ options: [
   },
   {
     name: Project D-462,
-    date: "Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)",
+    subTitle: "Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)",
     description: "",
     listHeading: "Sponsor: Vanderbilt University",
     list: [
