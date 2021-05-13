@@ -21,10 +21,11 @@
                                     <input type="email" class="form-control" placeholder="Your Email *" id="email" name="email" required data-validation-required-message="Please enter your email address." autocomplete="off">
                                 </div>
                             </div>
+                            {% for field in site.data.contact.formFields %}
                             <div class="col-xs-12">
                                 <div class="form-group">
-                                    <select class="rev-select-box" id="careerStage" name="careerStage" autocomplete="off">
-                                        {% for stage in site.data.contact.careerStage %}
+                                    <select class="rev-select-box" id="{{field.id}}" name="{{field.id}}" autocomplete="off">
+                                        {% for stage in field.fields %}
                                             {% if forloop.first %}
                                             <option value="{{stage.value}}" selected>{{stage.display}}</option>
                                             {% else %}
@@ -34,32 +35,7 @@
                                     </select>
                                 </div>
                             </div>
-                            <div class="col-xs-12">
-                                <div class="form-group">
-                                    <select class="rev-select-box" id="experience" name="experience" autocomplete="off">
-                                        {% for stage in site.data.contact.programmingExperience %}
-                                            {% if forloop.first %}
-                                            <option value="{{stage.value}}" selected>{{stage.display}}</option>
-                                            {% else %}
-                                            <option value="{{stage.value}}">{{stage.display}}</option>
-                                            {% endif %}
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-xs-12">
-                                <div class="form-group">
-                                    <select class="rev-select-box" id="researchField" name="researchField" autocomplete="off">
-                                        {% for stage in site.data.contact.researchField %}
-                                            {% if forloop.first %}
-                                            <option value="{{stage.value}}" selected>{{stage.display}}</option>
-                                            {% else %}
-                                            <option value="{{stage.value}}">{{stage.display}}</option>
-                                            {% endif %}
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </div>
+                            {% endfor %}
                             <div class="col-xs-12">
                                 <div class="form-group">
                                     <div class="custom-checkbox">

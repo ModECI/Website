@@ -958,6 +958,13 @@ section h3.section-subheading span {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    background: linear-gradient(95.02deg, #5853F6 0%, #2188FF 100%);
+    mix-blend-mode: soft-light;
+    border-image: linear-gradient(#5853F6 20%, #2188FF 100%);
+    border: 3px solid transparent;
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
 }
 .about-team .about-teamImg:before {
     content:"";
@@ -1084,6 +1091,7 @@ section h3.section-subheading span {
     font-weight: 300;
     font-size: 13px;
     color: #fff;
+    cursor: pointer;
 }
 .contact-formData {
     display: flex;
