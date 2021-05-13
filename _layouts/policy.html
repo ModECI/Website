@@ -9,13 +9,13 @@
       {% include js.html %}
 
       <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{site.testGoogleAnaytics}}"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{site.googleAnalytics}}"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', '{{site.testGoogleAnaytics}}');
+        gtag('config', '{{site.googleAnalytics}}');
       </script>
     </body>
 </html>
