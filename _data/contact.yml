@@ -1,70 +1,81 @@
-careerStage: [
+formFields: [
   {
-    display: "Career Stage",
-    value: ""
-  },
-  {
-    display: "Trainee (e.g., grad student, postdoc)",
-    value: "Trainee"
-  },
-  {
-    display: "Early career (asst. professor, junior researcher, etc.)",
-    value: "Early Career"
-  },
-  {
-    display: "Established (tenured faculty, senior/principal researcher in industry, etc.)",
-    value: "Established"
-  },
-  {
-    display: "Retired",
-    value: "Retired"
-  },
-  {
-    display: "Other",
-    value: "Other"
-  },
-]
-programmingExperience: [
-  {
-    display: "How much programming experience do you have?",
-    value: ""
-  },
-  { display: None,
-    value: None
-  },
-  { display: "Limited programming experience (basic scripting in pre-packaged environments)",
-    value: "Limited programming experience (basic scripting in pre-packaged environments)"
-  },
-  { display: "Programming (in Python, C, etc.)",
-    value: "Programming (in Python, C, etc.)"
-  },
-  { display: Software development,
-    value: Software development
-  },
-]
-researchField: [
-  {
-    display: "What field(s) of research do you work in?",
-    value: ""
+    id: careerStage,
+    fields: [
+      {
+        display: "Career Stage",
+        value: ""
+      },
+      {
+        display: "Trainee (e.g., grad student, postdoc)",
+        value: "Trainee"
+      },
+      {
+        display: "Early career (asst. professor, junior researcher, etc.)",
+        value: "Early Career"
+      },
+      {
+        display: "Established (tenured faculty, senior/principal researcher in industry, etc.)",
+        value: "Established"
+      },
+      {
+        display: "Retired",
+        value: "Retired"
+      },
+      {
+        display: "Other",
+        value: "Other"
+      },
+    ],
   },
   {
-    display: Neuroscience,
-    value: Neuroscience
+    id: programmingExperience,
+    fields: [
+      {
+        display: "How much programming experience do you have?",
+        value: ""
+      },
+      { display: None,
+        value: None
+      },
+      { display: "Limited programming experience (basic scripting in pre-packaged environments)",
+        value: "Limited programming experience (basic scripting in pre-packaged environments)"
+      },
+      { display: "Programming (in Python, C, etc.)",
+        value: "Programming (in Python, C, etc.)"
+      },
+      { display: Software development,
+        value: Software development
+      },
+    ]
   },
   {
-    display: Cognitive Science,
-    value: Cognitive Science
-  },
-  {
-    display: Computer Science,
-    value: Computer Science
-  },
-  {
-    display: Social Science,
-    value: Social Science
-  },
-  {
-    display: Other,
-    value: Other
+    id: researchField,
+    fields: [
+      {
+        display: "What field(s) of research do you work in?",
+        value: ""
+      },
+      {
+        display: Neuroscience,
+        value: Neuroscience
+      },
+      {
+        display: Cognitive Science,
+        value: Cognitive Science
+      },
+      {
+        display: Computer Science,
+        value: Computer Science
+      },
+      {
+        display: Social Science,
+        value: Social Science
+      },
+      {
+        display: Other,
+        value: Other
+      }
+    ]
   }
 ]
