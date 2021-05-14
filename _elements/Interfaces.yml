@@ -4,26 +4,44 @@ anchor: interfaces
 options: [
   {
     url: "https://neuroml.org/",
-    title: "NeuroML",
-    id: "neuroml",
+    title: "Emergent",
+    id: "emergentLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
     url: "http://google.com",
-    title: "Cognitive Science",
-    id: "cognitivescience",
+    title: "Nengo",
+    id: "nengoLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
     url: "http://google.com",
-    title: "Machine Learning",
-    id: "machinelearning",
+    title: "Super.tech",
+    id: "supertechLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "ACT-R",
+    id: "actRLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Computational Neuroscience",
+    id: "computationalneuroscienceLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
     url: "http://google.com",
     title: "Tensor Flow",
-    id: "tensorflow",
+    id: "tensorflowLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Machine Learning",
+    id: "machinelearningLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   }
 ]
