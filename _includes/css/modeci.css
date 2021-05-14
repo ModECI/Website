@@ -301,7 +301,7 @@ fieldset[disabled] .btn-xl.active {
     }
     .navbar-nav {
         margin: auto;
-        padding-left: 136px;
+        padding-left: 114px;
     }
     .navbar-right a {
         margin: 0;
@@ -312,10 +312,11 @@ fieldset[disabled] .btn-xl.active {
     }
     .navbar-right li {
         list-style: none;
-        padding: 0 20px;
+        padding: 0 0 0 20px;
     }
     .navbar-right li:first-child {
         border-right: 1px solid rgba(255, 255, 255, 0.2);
+        padding: 0 20px;
     }
     .navbar-collapse.collapse {
         display: flex !important;
@@ -342,7 +343,7 @@ header {
 }
 
 header .container {
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom: 50px;
 }
 
@@ -404,19 +405,59 @@ header .homePatteren .grayPattern {
     padding: 3px 8px;
 }
 header .homePatteren .psyneulinkLogo {
-    left: 175px;
-    top: 215px;
+    left: 196px;
+    top: 239px;
 }
 header .homePatteren .cognitiveScience {
-    /* top: 130px; */
     left: 395px;
-    top: 122px;
+    top: 152px;
 }
+
+header .homePatteren .neuroMLogo {
+    top: 467px;
+    left: 233px;
+    padding: 12px;
+}
+
+header .homePatteren .emergent {
+    top: 215px;
+    left: 10px;
+}
+
+header .homePatteren .actR {
+    left: 120px;
+    top: 26px;
+}
+
+header .homePatteren .nengo {
+    left: 6px;
+    top: 338px;
+    padding: 10px;
+}
+
+header .homePatteren .supertech {
+    top: 570px;
+    padding: 10px 15px;
+    right: 210px;
+}
+
+header .homePatteren .onnx {
+    padding: 10px;
+    top: 190px;
+    right: 255px;
+}
+
 header .homePatteren .neuroML {
-    /* right: 302px;
-    top: 122px; */
-    right: 289px;
-    top: 117px;
+    top: 14px;
+    left: 375px;
+}
+header .homePatteren .structural {
+    top: 14px;
+    right: 340px;
+}
+header .homePatteren .medical {
+    top: 14px;
+    right: 498px;
 }
 header .homePatteren .modelDescriptionFormat {
     background: linear-gradient(95.02deg, #5853F6 0%, #2188FF 100%);
@@ -429,30 +470,38 @@ header .homePatteren .modelDescriptionFormat {
     font-size: 14px;
     padding: 8px 16px;
     left: 495px;
-    top: 262px;
+    top: 285px;
 }
 header .homePatteren .computationalNeuroscience {
-    right: 220px;
-    top: 272px;
+    left: 280px;
+    top: 384px;
 }
 header .homePatteren .tensorFLowLogo {
-    left: 136px;
-    top: 380px;
+    right: 130px;
+    top: 405px;
 }
 header .homePatteren .machineLearning {
-    top: 366px;
-    left: 409px;
+    top: 297px;
+    right: 250px;
 }
 header .homePatteren .pytoracLogo {
-    top: 430px;
-    left: 463px;
-    padding: 0 6px 6px;
+    top: 293px;
+    right: 0;
+    padding: 6px;
+}
+header .homePatteren .cpuFormat {
+    right: 100px;
+    top: 130px;
+}
+header .homePatteren .quantum {
+    top: 480px;
+    right: 354px;
 }
 header .homePatteren .theVirtualBrainLogo {
-    top: 379px;
+    top: 548px;
     display: flex;
     flex-direction: column;
-    right: 378px;
+    left: 112px;
     font-size: 9px;
     text-transform: uppercase;
     align-items: center;
@@ -462,23 +511,23 @@ header .homePatteren .theVirtualBrainLogo img {
     width: 54px;
 }
 header .homePatteren .neuronSimulator {
-    right: 52px;
-    top: 425px;
+    right: 16px;
+    top: 585px;
 }
 header .homePatteren .onnxFormat {
-    top: 526px;
-    left: 280px;
+    top: 570px;
+    left: 330px;
 }
 header .homePatteren .manymore {
     color: #fff;
     font-size: 14px;
-    top: 560px;
-    left: 535px;
+    top: 590px;
+    left: 550px;
 }
 header .homePatteren {
     height: 600px;
     width: 100%;
-    background: url('img/princeton_lines_bg.png') no-repeat;
+    background: url('img/lines.png') no-repeat;
     background-position: center;
     background-size: contain;
     overflow: auto;
@@ -1310,6 +1359,27 @@ section h3.section-subheading span {
         top: 150px;
     }
 }
+@media(max-width:1199px) {
+    header .homePatteren {
+        height: auto;
+        background: none;
+    }
+    header .homePatteren .container:before {
+        display: none;
+    }
+    header .homePatteren .container {
+        padding: 0;
+    }
+    header .homePatteren .container a {
+        position: static;
+        display: inline-block;
+        margin: 10px;
+    }
+    header .homePatteren .container .psyneulinkLogo {
+        background: rgba(35, 41, 68, 1);
+    }
+}
+
 
 .service-heading {
     margin: 15px 0;
