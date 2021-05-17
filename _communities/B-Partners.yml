@@ -28,17 +28,19 @@ options: [
       "Ethan Jackson (Co-Principal Investigator)"
     ]
   },
- name: Project D-665,
+  {
+    name: Project D-665,
     subTitle: "",
     description: "Intelligent Surveillance Platform for Damage Detection and Localization of Civil Infrastructure",
     listHeading: "Sponsor: Howard University",
     list: [
-     “Claudia Marin (Principal Investigator)”,
-     “Qiang (Shawn) Cheng (Co-Principal Investigator)”,
-     “Jale Tezcan (Co-Principal Investigator)”
+    “Claudia Marin (Principal Investigator)”,
+    “Qiang (Shawn) Cheng (Co-Principal Investigator)”,
+    “Jale Tezcan (Co-Principal Investigator)”
     ]
   },
-  name: Project D-532,
+  {
+    name: Project D-532,
     subTitle: "",
     description: "ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging",
     listHeading: "Sponsor: University of Iowa",
@@ -50,7 +52,8 @@ options: [
      “Paul Chang (Co-Principal Investigator)”
     ]
   },
-  name: Project C-702,
+  {
+    name: Project C-702,
     subTitle: "",
     description: "Cloud-Accessible Integrated Quantum Simulator Based on Programmable Atom Arrays",
     listHeading: "Sponsor: Columbia University",
@@ -61,7 +64,8 @@ options: [
       “Layla Hormozi (Co-Principal Investigator)”
     ]
   },
-  name: Project C-667,
+  {
+    name: Project C-667,
     subTitle: "",
     description: "SQAI: Scalable Quantum Artificial Intelligence for Discovery",
     listHeading: "Sponsor: Pennsylvania State University",
