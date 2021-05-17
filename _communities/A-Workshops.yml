@@ -8,18 +8,18 @@ options: [
     description: "Experts in areas of cognitive science/psychology, computational neuroscience, neuroinformatics, brain imaging and cognitive/symbolic modeling, systems and AI architecture, and Machine Learning participated in discussions on the feasibility of a Model Description Format (MDF) as posited by the ModECI team. The overall consensus - there is a real need for a format like MDF and each participant saw a practical benefit of MDF furthering convergence science in their respective domains.",
     listHeading: "Attendees:",
     list: [
-      "Anton Arkhipov, (Allen Institute)"
-      "Trevor Bekolay (Applied Brain Research)"
-      "John Griffiths (Griffslabs)"
-      "Anurag Khandelwal (Yale University)"
-      "Christian Lebierre (Act-R)"
-      "Maryann Martone (University of California, San Diego)"
-      "Randy McIntosh (Rotman Research Institute)"
-      "Brian Nosek (Center for Open Science)"
-      "Jim Pivarski (Princeton University)"
-      "Russ Poldrack (Stanford University)"
-      "Fred Rothganger (Sandia labs)"
-      "Carole-Jean Wu (Facebook’s AI Infrastructure Research)"
+      "Anton Arkhipov, (Allen Institute)",
+      "Trevor Bekolay (Applied Brain Research)",
+      "John Griffiths (Griffslabs)",
+      "Anurag Khandelwal (Yale University)",
+      "Christian Lebierre (Act-R)",
+      "Maryann Martone (University of California, San Diego)",
+      "Randy McIntosh (Rotman Research Institute)",
+      "Brian Nosek (Center for Open Science)",
+      "Jim Pivarski (Princeton University)",
+      "Russ Poldrack (Stanford University)",
+      "Fred Rothganger (Sandia labs)",
+      "Carole-Jean Wu (Facebook’s AI Infrastructure Research)",
       "Yuan Yu (Microsoft)"
     ]
   },
@@ -29,15 +29,14 @@ options: [
     description: "Domain experts gathered to deliberate the impact an MDF could have on the cognitive science process-modeling community. Rich discussions solicited insightful feedback and cautionary tales from participants’ experiences, thus leading to a better-informed prototype for the ModECI MDF.",
     listHeading: "Attendees:",
     list: [
-      “Christian Lebierre, Carnegie Mellon University (Act-R)”
-      “John Laird, University of Michigan (Soar/Common Model)”
-      “Pat Langley, Stanford University (ICARUS)”
-      “Rick Lewis, University of Michigan (ACT-R/Soar/CORE)”
-      “Frank Ritter, Pennsylvania State University (ACT-R/Soar/Herbal)”
-      “Paul Rosenbloom, University of Southern California (Sigma graphical model/Common Model)”
-      “Terry Stewart, National Research Council Canada (ACT-R/Nengo)”
+      “Christian Lebierre, Carnegie Mellon University (Act-R)”,
+      “John Laird, University of Michigan (Soar/Common Model)”,
+      “Pat Langley, Stanford University (ICARUS)”,
+      “Rick Lewis, University of Michigan (ACT-R/Soar/CORE)”,
+      “Frank Ritter, Pennsylvania State University (ACT-R/Soar/Herbal)”,
+      “Paul Rosenbloom, University of Southern California (Sigma graphical model/Common Model)”,
+      “Terry Stewart, National Research Council Canada (ACT-R/Nengo)”,
       “Andrea Stocco, Institute for Learning and Brain Sciences (ACT-R/Common Model)”
-
     ]
   },
   {
@@ -52,32 +51,31 @@ options: [
       "Michael Suo, FAIR"
     ]
   },
-]
-{
+  {
     name: "Neuro Focus Group Workshop",
     subTitle: "February 8, 2021",
     description: "The ModECI team hosted their third Domain-specific focus group workshop, working with the Neuroscience international community. The objective was to identify end-user needs and areas of growth for the project. Several topics were discussed including the importance of identifying use-cases, precision, benchmarks, environments, and procedural coding. The lively discussion and debates provided much feedback for the ModECI team to consider in building the prototype and for future launching.",
     listHeading: "Attendees:",
     list: [
-      “Anton Arkhipov, Allen Institute (Sonata)”
-      “Kael Dai, Allen Institute (Sonata)”
-      “Nora Abi Akar, Swiss National Supercomputing Centre (Arbor Project)” 
-      “Ben Cumming, Swiss National Supercomputing Centre (Arbor Project)”
-      “Hananel Hazan, Tufts University (Arbor Project, BINDSNET)”
-      “Brent Huisman, Institute for Advanced Simulations (Arbor Project)”
-      “Sam Yates, Swiss National Supercomputing Centre (Arbor Project)”
-      “Marmaduke Woodman, Institut de Neurosciences des Systèmes, Aix Marseille Université (The Virtual Brain)”
-      “Spase Petkoski, Institut de Neurosciences des Systèmes, Aix Marseille Université (The Virtual Brain)”
-      “Michael Schirner, Charité University Medicine Berlin (The Virtual Brain)”
-      “Petra Ritter, Charité University Medicine Berlin (The Virtual Brain)”
-      “Robert McDougal, Yale University (Neuron)”
-      “Ted Carnevale, Yale University (Neuron)”
-      “Sharon Crook, Arizona State University (NeuroML)”
-      “Marcel Stimberg, Sorbonne Université (Brian)”
-      “James Knight, University of Sussex (GeNN simulator)”
-      “Thomas Nowotny, University of Sussex (GeNN simulator)”
-      "Terry Stewart, National Research Council Canada (ACT-R/Nengo)”
-      “Charl Linssen, Institute for Advanced Simulations (NESTML)”
+      “Anton Arkhipov, Allen Institute (Sonata)”,
+      “Kael Dai, Allen Institute (Sonata)”,
+      “Nora Abi Akar, Swiss National Supercomputing Centre (Arbor Project)”,
+      “Ben Cumming, Swiss National Supercomputing Centre (Arbor Project)”,
+      “Hananel Hazan, Tufts University (Arbor Project, BINDSNET)”,
+      “Brent Huisman, Institute for Advanced Simulations (Arbor Project)”,
+      “Sam Yates, Swiss National Supercomputing Centre (Arbor Project)”,
+      “Marmaduke Woodman, Institut de Neurosciences des Systèmes, Aix Marseille Université (The Virtual Brain)”,
+      “Spase Petkoski, Institut de Neurosciences des Systèmes, Aix Marseille Université (The Virtual Brain)”,
+      “Michael Schirner, Charité University Medicine Berlin (The Virtual Brain)”,
+      “Petra Ritter, Charité University Medicine Berlin (The Virtual Brain)”,
+      “Robert McDougal, Yale University (Neuron)”,
+      “Ted Carnevale, Yale University (Neuron)”,
+      “Sharon Crook, Arizona State University (NeuroML)”,
+      “Marcel Stimberg, Sorbonne Université (Brian)”,
+      “James Knight, University of Sussex (GeNN simulator)”,
+      “Thomas Nowotny, University of Sussex (GeNN simulator)”,
+      "Terry Stewart, National Research Council Canada (ACT-R/Nengo)",
+      “Charl Linssen, Institute for Advanced Simulations (NESTML)”,
       “Jerry Skefos, Metacell”
     ]
   },
@@ -87,24 +85,24 @@ options: [
     description: "The ModECI team hosted their fourth domain-specific focus group workshop, working with the quantum computing community. The objective of this workshop was to explore the capacity for MDF to use quantum technology. The group identified several areas for convergence and collaborative efforts were solidified.",
     listHeading: "Attendees:",
     list: [
-     “Lev Bishop, IBM”
-     “Ali Javadi-Abhari, IBM”
-     “Tom Marshall, Bloomberg”
-     “Andras Bako, Bloomberg”
-     “Pranav Gokhale, Super.tech”
-     “Victory Omole, Super.tech”
-     “Teague Tomesh, Super.tech and Princeton University”
-     “Kaitlyn Smith, University of Chicago”
-     “Gokul Ravi, University of Chicago”
-     “Rich Rines, University of Chicago”
-     “Yongshan Ding, University of Chicago”
-     “Sebastian Will, Columbia University”
-     “Minho Kwon, Columbia University”
-     “Max Aalto, Columbia University”
-     “Mahmut Kandemir, Penn State University”
-     “Swaroop Ghosh, Penn State University”
-     “Mike Pozmantier, NSF”
-     “Chaitanya Baru, NSF”
+     “Lev Bishop, IBM”,
+     “Ali Javadi-Abhari, IBM”,
+     “Tom Marshall, Bloomberg”,
+     “Andras Bako, Bloomberg”,
+     “Pranav Gokhale, Super.tech”,
+     “Victory Omole, Super.tech”,
+     “Teague Tomesh, Super.tech and Princeton University”,
+     “Kaitlyn Smith, University of Chicago”,
+     “Gokul Ravi, University of Chicago”,
+     “Rich Rines, University of Chicago”,
+     “Yongshan Ding, University of Chicago”,
+     “Sebastian Will, Columbia University”,
+     “Minho Kwon, Columbia University”,
+     “Max Aalto, Columbia University”,
+     “Mahmut Kandemir, Penn State University”,
+     “Swaroop Ghosh, Penn State University”,
+     “Mike Pozmantier, NSF”,
+     “Chaitanya Baru, NSF”,
     ]
   },
   {
@@ -113,8 +111,10 @@ options: [
     description: "The ModECI team hosted their final focus group workshop. The goal was to examine options for an open-source exposure. Suggestions from the participants included: joining professional group forums such as the International Neuroinformatics Coordinating Facility (INCF), development of strong governance model for the initiative, and hosting activities such as a “hackathon” to solicit community engagement while also stirring community excitement.",
     listHeading: "Attendees:",
     list: [
-      “Maryann Martone, University of California, San Diego”
-      “Russ Poldrack, Stanford University”
+      “Maryann Martone, University of California, San Diego”,
+      “Russ Poldrack, Stanford University”,
       “Mike Pozmantier, NSF”
     ]
-  }---
+  }
+]
+---
