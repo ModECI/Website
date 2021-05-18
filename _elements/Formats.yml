@@ -3,31 +3,31 @@ title: Format
 anchor: formats
 options: [
   {
-    url: "http://google.com",
+    url: "https://github.com/ModECI/MDF",
     title: "Model Description Format",
     id: "modeldescriptionformatLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "The goal of the MDF is to provide a common exchange format that allows models created in one environment that supports the standard to be expressed in a form – and in sufficient detail – that it can be imported into another modeling environment that supports the standard, and then executed in that environment with identical results, and/or integrated with other models in that environment."
   },
   {
     url: "https://onnx.ai/",
-    title: ".onxx format",
+    title: "ONNX format",
     id: "onnxLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
-    url: "http://google.com",
-    title: "Pysnolink",
+    url: "https://princetonuniversity.github.io/PsyNeuLink/",
+    title: "PsyNeulink",
     id: "psyneulink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
-    url: "http://google.com",
+    url: "#partners",
     title: "Medical Informatics",
     id: "medicalinformaticsLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
   },
   {
-    url: "http://google.com",
+    url: "http://neuroml.org",
     title: "NeuroML",
     id: "neuromlLink",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
