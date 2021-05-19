@@ -1,0 +1,7 @@
+mdfIntro:
+  - para: The purpose of the MDF is to provide a standard,
+  - para: JSON-based format for describing computational models of brain and/or mental function.
+
+mdfStage: The ModECI MDF is in early stages of development.
+mdfDescription: The goal is to provide a common exchange format that allows models created in one environment that supports the standard to be expressed in a form – and in sufficient detail – that it can be imported into another modeling environment that supports the standard, and then executed in that environment with identical results, and/or integrated with other models in that environment.
+

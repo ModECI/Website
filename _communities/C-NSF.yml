@@ -1,0 +1,26 @@
+---
+title: NSF Convergence Accelerator
+anchor: nsfProjects
+options: [
+  {
+    name: Project D-727,
+    subTitle: "Towards Intelligent Sharing and Search for AI Models and Datasets",
+    description: "",
+    listHeading: "Sponsor: University of California-San Diego",
+    list: [
+      "Jingbo Shang (Principal Investigator)",
+      "Rajesh Gupta (Co-Principal Investigator)"
+    ]
+  },
+  {
+    name: Project D-462,
+    subTitle: "Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)",
+    description: "",
+    listHeading: "Sponsor: Vanderbilt University",
+    list: [
+      "Bennett Landman (Principal Investigator)",
+      "Cheryl Carey (Co-Principal Investigator)"
+    ]
+  }
+]
+---
