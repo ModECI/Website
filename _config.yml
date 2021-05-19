@@ -1,3 +1,23 @@
-theme: jekyll-theme-dinky
+url: https://metacell.github.io
+baseurl: /ModECIWebsite-Staging/
+
+# Site settings
 title: ModECI
-description: The Model Exchange and Convergence Initiative
+email: your-email@domain.com
+description: ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration that aims to develop a standardized format for exchanging computational models among neuroscience, cognitive science and machine learning.
+githubLink: https://github.com/ModECI/Website
+nsfLink: https://www.nsf.gov/od/oia/convergence-accelerator/
+copyright: 2021 Princeton University
+metacellLink: https://metacell.us/
+contactFormAction: https://app.99inbound.com/api/e/rXJz7j9f
+testGoogleAnaytics: G-48KS6RG0RV
+googleAnalytics: G-LQF8HS2E19
+
+# Collections
+collections:
+  - communities
+  - elements
+
+# Build settings
+markdown: kramdown
+permalink: pretty

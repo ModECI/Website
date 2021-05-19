@@ -1,0 +1,54 @@
+---
+title: Format
+anchor: formats
+options: [
+  {
+    url: "http://google.com",
+    title: "Model Description Format",
+    id: "modeldescriptionformatLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "https://onnx.ai/",
+    title: ".onxx format",
+    id: "onnxLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Pysnolink",
+    id: "psyneulink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Medical Informatics",
+    id: "medicalinformaticsLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "NeuroML",
+    id: "neuromlLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Environmental Science",
+    id: "environmentalscienceLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Cognitive Science",
+    id: "cognitivescienceLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Structural Engineering",
+    id: "structuralengineeringLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  }
+]
+---

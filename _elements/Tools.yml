@@ -1,0 +1,42 @@
+---
+title: Tools
+anchor: tools
+options: [
+  {
+    url: "http://google.com",
+    title: "Pytorch",
+    id: "pytorchLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "The Virtual Brain",
+    id: "thevirtualbrainLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Quantum Hardware",
+    id: "quantumHardwareLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Quantum Computing",
+    id: "quantumComputingLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "Sonata",
+    id: "sonataLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  },
+  {
+    url: "http://google.com",
+    title: "CPUs, GPUs",
+    id: "cpuLink",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+  }
+]
+---
