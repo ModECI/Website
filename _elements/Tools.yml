@@ -3,40 +3,46 @@ title: Tools
 anchor: tools
 options: [
   {
-    url: "http://google.com",
-    title: "Pytorch",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/PyTorch",
+    title: "PyTorch",
     id: "pytorchLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "PyTorch is a widely used framework in machine learning and we have developed an initial mapping between MDF models and PyTorch"
   },
   {
-    url: "http://google.com",
+    url: "https://www.tensorflow.org/",
+    title: "TensorFlow",
+    id: "tensorflowLink",
+    description: "We are planning to extend MDF support to TensorFlow in Phase II of this project."
+  },
+  {
+    url: "https://www.thevirtualbrain.org/tvb/zwei",
     title: "The Virtual Brain",
     id: "thevirtualbrainLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "We are planning to extend MDF support to The Virtual Brain simulator in Phase II of this project."
   },
   {
-    url: "http://google.com",
-    title: "Quantum Hardware",
-    id: "quantumHardwareLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/Quantum",
     title: "Quantum Computing",
     id: "quantumComputingLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "We are actively investigating mapping of models in MDF format to quantum hardware with our collaborators in Track C of the NSF Convergence Accelerator program"
   },
   {
-    url: "http://google.com",
-    title: "Sonata",
-    id: "sonataLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    url: "https://github.com/ModECI/MDF/tree/main/examples/PsyNeuLink/",
+    title: "PsyNeulink",
+    id: "psyneulink",
+    description: "PsyNeuLink is an open-source, software environment written in Python, and designed for the needs of neuroscientists, psychologists, computational psychiatrists and others interested in learning about and building models of the relationship between brain function, mental processes and behavior.<br/>We have developed mappings between a number of model types in PsyNeulink and MDF, as a proof-of-concept for use of MDF in cognitive modelling."
   },
   {
-    url: "http://google.com",
+    url: "https://github.com/ModECI/MDF/tree/main/examples",
     title: "CPUs, GPUs",
     id: "cpuLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "MDF's support for multiple export formats mean that the models can be executed across a range of conventional hardware platforms."
+  },
+  {
+    url: "https://github.com/ModECI/MDF/tree/main/examples/Quantum",
+    title: "Quantum Hardware",
+    id: "quantumHardwareLink",
+    description: "We are actively investigating mapping of models in MDF format to quantum hardware with our collaborators in Track C of the NSF Convergence Accelerator program"
   }
 ]
 ---
