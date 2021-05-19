@@ -45,9 +45,9 @@ options: [
     description: "The ModECI team hosted their second focused group workshop, working with the Artificial Intelligence and Machine Learning/Deep Learning communities to identify user-needs and areas of growth for the project.<br/>Experts in several areas including Python, PyTorch, and IR discussed the potential for the MDF while also providing valuable insight into future pathways.",
     listHeading: "Attendees:",
     list: [
-      "Dr. Ryan Adams, Princeton",
-      "Dr. Jim Pivarski, Princeton",
-      "Dr. Carole Jean Wu, FAIR",
+      "Ryan Adams, Princeton",
+      "Jim Pivarski, Princeton",
+      "Carole Jean Wu, FAIR",
       "Michael Suo, FAIR"
     ]
   },
