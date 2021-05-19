@@ -3,8 +3,8 @@ baseurl: /ModECIWebsite-Staging/
 
 # Site settings
 title: ModECI
-email: your-email@domain.com
-description: ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration that aims to develop a standardized format for exchanging computational models among neuroscience, cognitive science and machine learning.
+email: info@modeci.org
+description: ModECI (Model Exchange and Convergence Initiative) is a multi-investigator collaboration that aims to develop a standardized format for exchanging computational models among neuroscience, cognitive science, machine learning and beyond.
 githubLink: https://github.com/ModECI/Website
 nsfLink: https://www.nsf.gov/od/oia/convergence-accelerator/
 copyright: 2021 Princeton University

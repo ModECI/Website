@@ -1,5 +1,5 @@
 ---
-title: Format
+title: Formats
 anchor: formats
 options: [
   {
@@ -9,46 +9,28 @@ options: [
     description: "The goal of the MDF is to provide a common exchange format that allows models created in one environment that supports the standard to be expressed in a form – and in sufficient detail – that it can be imported into another modeling environment that supports the standard, and then executed in that environment with identical results, and/or integrated with other models in that environment."
   },
   {
-    url: "https://onnx.ai/",
-    title: "ONNX format",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/ONNX",
+    title: "ONNX",
     id: "onnxLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "ONNX (Open Neural Network Exchange) is a well-established and actively supported standard in the machine learning community. <br/>We have leveraged this, by developing a proof of concept interface between MDF and ONNX, showing not only that MDF can complement ONNX as an exchange-oriented format among machine learning environments, but also bridge to ONNX from environments in other domains."
   },
   {
-    url: "https://princetonuniversity.github.io/PsyNeuLink/",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/PsyNeuLink/",
     title: "PsyNeulink",
     id: "psyneulink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "PsyNeuLink is an open-source, software environment written in Python, and designed for the needs of neuroscientists, psychologists, computational psychiatrists and others interested in learning about and building models of the relationship between brain function, mental processes and behavior.<br/>We have developed mappings between a number of model types in PsyNeulink and MDF, as a proof-of-concept for use of MDF in cognitive modelling."
   },
   {
-    url: "#partners",
+    url: "#communityPage",
     title: "Medical Informatics",
     id: "medicalinformaticsLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "We are partnering with a number of other projects in the NSF Convergence Accelerator program to extend the use of MDF to other domains, including Medical Informatics"
   },
   {
-    url: "http://neuroml.org",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/NeuroML/",
     title: "NeuroML",
     id: "neuromlLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
-    title: "Environmental Science",
-    id: "environmentalscienceLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
-    title: "Cognitive Science",
-    id: "cognitivescienceLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
-    title: "Structural Engineering",
-    id: "structuralengineeringLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "NeuroML is a widely accepted standard for describing biophysically-realistic models of neurons, neuronal subcomponents, and neural circuits in machine readable form, that is supported by a large number of existing programming and execution environments.<br/>We have shown that MDF can be used to encode neuroscientific models created in NeuroML, allowing such models to be run on a wider range of simulation platforms."
   }
 ]
 ---
