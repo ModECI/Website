@@ -1,54 +1,30 @@
 ---
-title: Format
+title: Formats
 anchor: formats
 options: [
   {
-    url: "http://google.com",
+    url: "https://github.com/ModECI/MDF",
     title: "Model Description Format",
     id: "modeldescriptionformatLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "The goal of the MDF is to provide a common exchange format that allows models created in one environment that supports the standard to be expressed in a form – and in sufficient detail – that it can be imported into another modeling environment that supports the standard, and then executed in that environment with identical results, and/or integrated with other models in that environment."
   },
   {
-    url: "https://onnx.ai/",
-    title: ".onxx format",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/ONNX",
+    title: "ONNX",
     id: "onnxLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "ONNX (Open Neural Network Exchange) is a well-established and actively supported standard in the machine learning community. <br/>We have leveraged this, by developing a proof of concept interface between MDF and ONNX, showing not only that MDF can complement ONNX as an exchange-oriented format among machine learning environments, but also bridge to ONNX from environments in other domains."
   },
   {
-    url: "http://google.com",
-    title: "Pysnolink",
-    id: "psyneulink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
-    title: "Medical Informatics",
-    id: "medicalinformaticsLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
+    url: "https://github.com/ModECI/MDF/tree/main/examples/NeuroML/",
     title: "NeuroML",
     id: "neuromlLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    description: "NeuroML is a widely accepted standard for describing biophysically-realistic models of neurons, neuronal subcomponents, and neural circuits in machine readable form, that is supported by a large number of existing programming and execution environments.<br/>We have shown that MDF can be used to encode neuroscientific models created in NeuroML, allowing such models to be run on a wider range of simulation platforms."
   },
   {
-    url: "http://google.com",
-    title: "Environmental Science",
-    id: "environmentalscienceLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
-    title: "Cognitive Science",
-    id: "cognitivescienceLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
-  },
-  {
-    url: "http://google.com",
-    title: "Structural Engineering",
-    id: "structuralengineeringLink",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra auctor tempor dignissim tellus. Suscipit dui, dapibus id dui purus urna. Purus, quisque sed cursus vitae. Dui dignissim fringilla molestie turpis aliquet varius sit."
+    url: "https://github.com/AllenInstitute/sonata",
+    title: "SONATA",
+    id: "sonataLink",
+    description: "We are planning to extend MDF support for mapping to and from the SONATA format for large scale neuronal modeling in Phase II of this project."
   }
 ]
 ---
