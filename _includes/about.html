@@ -1,0 +1,35 @@
+<!-- About Section -->
+
+<section id="aboutPage" class="mdf-section">
+    <div class="container">
+        <div class="col-xs-12 col-md-6 mdf-content-sticky">
+            <div class="mdf-subtitle1">
+                <p class="w-100">{{site.data.about.aboutIntro}}</p>
+            </div>
+            <div class="mdf-actions">
+                <p>{{site.data.about.fundedIntro}}</p>
+                <a href="{{site.nsfLink}}" target="_blank">Learn More</a>
+            </div>
+            <div class="mdf-paragraph">
+                {{site.data.about.teamIntro}}
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <div class="mdf-tabContainer">
+                <div class="about-team">
+                    {% for member in site.data.about.teamMembers %}
+                    <div class="about-teamRow">
+                        <div class="about-teamImg">
+                            <img src="img/team/{{forloop.index}}.jpg" alt="{{member.name}}">
+                        </div>
+                        <div class="about-teamContent">
+                            <h5>{{member.name}}</h5>
+                            <p>{{member.from}}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
