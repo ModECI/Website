@@ -1,0 +1,76 @@
+<section id="communityPage" class="mdf-section">
+  	<div class="container">
+		<div class="col-xs-12 col-md-6 mdf-content-sticky">
+		<div class="mdf-subtitle1">
+			<p class="w-100">{{site.data.community.communityIntro}}</p>
+		</div>
+		</div>
+		<div class="col-xs-12 col-md-6">
+			<div class="mdf-tabContainer">
+				<div class="mdf-tabInner">
+					<h4 class="mdf-heading4">Community</h4>
+					<ul class="nav nav-tabs mdf-tabs">
+					{% for community in site.communities %}
+						{% if forloop.first %}
+						<li class="active">
+							<a data-toggle="tab" href="#{{community.anchor}}">
+							<img src="img/calender-icon.svg" alt="calender-icon">
+							<img src="img/calenderactive-icon.svg" alt="calender active-icon">
+							{{community.title}}
+							</a>
+						</li>
+						{% else %}
+						<li>
+						<a data-toggle="tab" href="#{{community.anchor}}">
+							<img src="img/folder-icon.svg" alt="folder-icon">
+							<img src="img/folderactive-icon.svg" alt="folder active-icon">
+							{{community.title}}
+						</a>
+						</li>
+						{% endif %}
+					{% endfor %}
+					</ul>
+					<div class="tab-content mdf-tabContent">
+						{% for community in site.communities %}
+							{% if forloop.first %}
+							<div id={{community.anchor}} class="tab-pane fade in active">
+							{% else %}
+							<div id={{community.anchor}} class="tab-pane fade">
+							{% endif %}
+								<div class="panel-group" role="tablist" aria-multiselectable="true">
+								{% for element in community.options %}
+									<div class="panel panel-default">
+									<div class="panel-heading" role="tab" id="heading{{forloop.index}}">
+										<div class="panel-title">
+										<h5>{{element.name}}</h5>
+										<p>{{element.subTitle}}</p>
+										</div>
+										<a role="button" data-toggle="collapse" class="collapsed" data-parent="#accordion" href="#collapse{{community.anchor}}{{forloop.index}}" aria-expanded="false" aria-controls="collapse{{forloop.index}}">
+										<span>More</span>
+										<span>Less</span>
+										<img src="img/iconChevron_right.svg" alt="icon">
+										</a>
+									</div>
+									<div id="collapse{{community.anchor}}{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{forloop.index}}">
+										<div class="panel-body">
+										<p>{{element.description}}</p>
+										<p> {{element.listHeading}}</p>
+										<ul>
+											{% for name in element.list %}
+											<li>{{name}}</li>
+											{% endfor %}
+										</ul>
+										</div>
+									</div>
+									</div>
+								{% endfor %}
+								</div>  
+							</div>
+						{% endfor %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
