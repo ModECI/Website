@@ -23,8 +23,27 @@
                             <img src="img/team/{{forloop.index}}.jpg" alt="{{member.name}}">
                         </div>
                         <div class="about-teamContent">
-                            <h5>{{member.name}}</h5>
-                            <p>{{member.from}}</p>
+                            <div class="panel-group" role="tablist" aria-multiselectable="true">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="aboutheading{{forloop.index}}">
+                                        <div class="panel-title">
+                                            <h5>{{member.name}}</h5>
+                                            <p>{{member.from}}</p>
+                                        </div>
+                                        <a role="button" data-toggle="collapse" class="collapsed" data-parent="#accordion" href="#about{{forloop.index}}" aria-expanded="false" aria-controls="collapse{{forloop.index}}">
+                                            <span>More</span>
+                                            <span>Less</span>
+                                            <img src="img/iconChevron_right.svg" alt="icon">
+                                        </a>
+                                    </div>
+                                    <div id="about{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="aboutheading{{forloop.index}}">
+                                        <div class="panel-body">
+                                            <p>{{member.para}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                     {% endfor %}
