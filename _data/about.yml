@@ -4,34 +4,42 @@ teamIntro: "ModECI (Model Exchange and Convergence Initiative) is a multi-invest
 teamMembers: [
   {
     name: "PI: Jonathan D. Cohen",
-    from: Princeton Neuroscience Institute
+    from: Princeton Neuroscience Institute,
+    para: "Jonathan Cohen is a cognitive neuroscientist with over three decades of expertise in computational modeling of brain and cognitive function, and contributions that range from models of the neural mechanisms underlying cognitive function (e.g., ServanSchreiber et al., 1990;  Miller & Cohen, 2001; Shenhav et al., 2013) to models of higher level cognitive functions such as multitasking, planning, and relational reasoning that span from cognitive science to ML  (e.g., Musslick et al., 2016; Segert et al., 2020; Ho et al., 2020).  He has also been lead or co-lead developer for several large software development efforts, including: PsyScope, the first graphically-oriented tool for the design and implementation of computer based cognitive experiments (Cohen et al., 1993);  BrainIAK, an open-source toolbox for the application of advanced machine learning methods to the analysis of brain imaging data (co-lead with  Ted Willke, Intel); PsyNeuLink, an open-source, graph-based environment for developing models of systems-level brain and cognitive function (collaboratively with Bhattacharjee); and SweetPea, for the declarative description of factorial design and unbiased sampling of trials in empirical and modeling studies.  Cohen will take primary responsibility for overall coordination of the project, as well as interactions with the cognitive science and cognitive neuroscience communities. "
   },
   {
     name: "Tal Yarkoni",
-    from: The University of Texas at Austin
+    from: The University of Texas at Austin,
+    para: "Tal Yarkoni is an informaticist with expertise in psychology, cognitive neuroscience and computational social science applications. He is the creator of the Neurosynth framework for large-scale automated meta-analysis of functional neuroimaging data (Yarkoni et al., 2011) and a number of other measurement and modeling techniques. He is a core contributor to the Brain Imaging Data Standard (BIDS) ecosystem, including principal contributions to the BIDS-StatsModels standard for machine-readable representation of fMRI statistical models, and co-developed the prototype BIDS-MDF spec with Cohen and Gleeson.  Yarkoni has extensive expertise in formal standard development and automation technologies more broadly in the social and behavioral sciences (Yarkoni, et al.; Yarkoni, 2010). In addition to core contributions to feature prioritization and prototype development, Yarkoni will take the lead on identifying potential use cases in the social sciences, and developing and analyzing the surveys used to solicit community input."
   },
   {
     name: Padraig Gleeson,
-    from: University College London
+    from: University College London,
+    para: "Padraig Gleeson is a domain expert in biophysically detailed neural modeling, and is a lead developer of the NeuroML model description format (Cannon et al., 2014; Gleeson et al., 2010), as well as a long-standing editor of the standard. He is also involved in a number of neuroinformatics initiatives, including Open Source Brain (Gleeson et al., 2019), where standardized models in computational neuroscience can be shared with the community. He has collaborated with Prof. Cohen on the original development of BIDS-MDF, which included creating a functioning prototype of NeuroML to PsyNeuLink interoperability. He will be a main point of contact with the computational neuroscience community."
   },
   {
     name: Abhishek Bhattacharjee,
-    from: Yale Computer Science Dpt.
+    from: Yale Computer Science Dpt.,
+    para: "Abhishek Bhattacharjee is an experimental computer scientist with experience in heterogeneous hardware platforms and software environments. He will add expertise on the hardware/software portability and efficiency goals of this work. Bhattacharjee and Cohen have been working actively over the last three years on relevant software development projects, including compilation and LLVM IR representation of models in PsyNeuLink."
   },
   {
     name: Ted Willke,
-    from: Intel Labs
+    from: Intel Labs,
+    para: "Ted Willke is the director of the Brain Inspired Computing Lab, focused on the development of state-of-the-art machine learning algorithms that are inspired by neuroscience. He works on techniques that advance deep-learning based imaging analysis (Vyas et al., 2018), reinforcement learning (Haj-Ali et al., 2020), similarity learning (Ma et al., 2019), and language modeling (Turek et al., 2020), with a focus on hardware/software co-design problems and applications to systems research. He will help coordinate interactions with the machine learning community, focusing on exchange requirements among deep learning models, applications in machine learning, and their relationship to neuroscientific and cognitive models, and help oversee overall software design."
   },
   {
     name: Sharon Crook,
-    from: Arizona State University
+    from: Arizona State University,
+    para: "Sharon's Bio"
   },
   {
     name: Pranav Gokhale,
-    from: Super.tech
+    from: Super.tech,
+    para: "Pranav's Bio"
   },
   {
     name: Terrence Stewart,
-    from: "National Research Council Canada, University of Waterloo Collaboration Centre"
+    from: "National Research Council Canada, University of Waterloo Collaboration Centre",
+    para: "Terrence's Bio"
   }
 ]

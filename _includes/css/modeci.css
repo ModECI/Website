@@ -973,8 +973,17 @@ section h3.section-subheading span {
 }
 .about-team .about-teamRow {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     margin: 0 0 24px;
+}
+.about-team .about-teamContent .panel-group .panel-default>.panel-heading a {
+    margin: 10px 0 0;
+}
+.about-team .about-teamContent .panel-group .panel {
+    padding: 0;
+}
+.about-team .about-teamContent .panel-group {
+    margin-bottom: 0;
 }
 .about-team .about-teamContent {
     flex: 1;
@@ -992,7 +1001,6 @@ section h3.section-subheading span {
     font-weight: 300;
     font-size: 13px;
     color: rgba(255, 255, 255, 0.6);
-    margin: 0;
 }
 .about-team .about-teamImg {
     position: relative;
@@ -1000,7 +1008,7 @@ section h3.section-subheading span {
     flex: none;
     width: 56px;
     height: 56px;
-    margin: 0 20px 0 0;
+    margin: 10px 20px 0 0;
     background: linear-gradient(95.02deg, #5853F6 0%, #2188FF 100%);
     mix-blend-mode: soft-light;
     border-image: linear-gradient(#5853F6 20%, #2188FF 100%);

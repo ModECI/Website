@@ -15,7 +15,7 @@ options: [
     description: "We are planning to extend MDF support to TensorFlow in Phase II of this project."
   },
   {
-    url: "https://www.thevirtualbrain.org/tvb/zwei",
+    url: "https://www.thevirtualbrain.org",
     title: "The Virtual Brain",
     id: "thevirtualbrainLink",
     description: "We are planning to extend MDF support to The Virtual Brain simulator in Phase II of this project."
