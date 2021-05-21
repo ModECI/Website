@@ -35,7 +35,7 @@ teamMembers: [
   {
     name: Pranav Gokhale,
     from: Super.tech,
-    para: "Pranav's Bio"
+    para: "Pranav Gokhale is the Co-founder and CEO of Super.tech, a quantum software company. His research focuses on bridging the gap from quantum hardware to practical applications. Pranav's work in quantum computing has led to over a dozen peer-reviewed publications, three best paper awards, three patent applications, and several software packages. Pranav will collaborate with ModECI to link MDF—particularly for graph problems involving Ising models—to quantum solvers. This work will bring the quantum computing community into the MDF ecosystem."
   },
   {
     name: Terrence Stewart,
