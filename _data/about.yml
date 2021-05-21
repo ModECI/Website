@@ -25,7 +25,7 @@ teamMembers: [
   {
     name: Ted Willke,
     from: Intel Labs,
-    para: "Ted Willke is the director of the Brain Inspired Computing Lab, focused on the development of state-of-the-art machine learning algorithms that are inspired by neuroscience. He works on techniques that advance deep-learning based imaging analysis (Vyas et al., 2018), reinforcement learning (Haj-Ali et al., 2020), similarity learning (Ma et al., 2019), and language modeling (Turek et al., 2020), with a focus on hardware/software co-design problems and applications to systems research. He will help coordinate interactions with the machine learning community, focusing on exchange requirements among deep learning Page 5models, applications in machine learning, and their relationship to neuroscientific and cognitive models, and help oversee overall software design."
+    para: "Ted Willke is the director of the Brain Inspired Computing Lab, focused on the development of state-of-the-art machine learning algorithms that are inspired by neuroscience. He works on techniques that advance deep-learning based imaging analysis (Vyas et al., 2018), reinforcement learning (Haj-Ali et al., 2020), similarity learning (Ma et al., 2019), and language modeling (Turek et al., 2020), with a focus on hardware/software co-design problems and applications to systems research. He will help coordinate interactions with the machine learning community, focusing on exchange requirements among deep learning models, applications in machine learning, and their relationship to neuroscientific and cognitive models, and help oversee overall software design."
   },
   {
     name: Sharon Crook,
