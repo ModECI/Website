@@ -30,7 +30,7 @@ teamMembers: [
   {
     name: Sharon Crook,
     from: Arizona State University,
-    para: "Sharon's Bio"
+    para: "Sharon Crook is the co-director of the Informatics and Computation in Open Neuroscience Lab at Arizona State University. Along with Gleeson, she is a leader of the NeuroML model description format initiative (Cannon et al., 2014; Gleeson et al., 2010), and she has developed and maintains the NeuroML-DB portal, where models and their characterizations are shared for efficient selection of models and re-use on multiple simulation platforms. She is involved with several other neuroinformatics initiatives including SciUnit, a framework for validating computational models against experimental data or testing model/model agreement. She will contribute to the further development of the MDF and associated tools that provide bridges between computational neuroscience, machine learning, and other scientific communities."
   },
   {
     name: Pranav Gokhale,
