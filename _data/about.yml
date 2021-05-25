@@ -40,6 +40,6 @@ teamMembers: [
   {
     name: Terrence Stewart,
     from: "National Research Council Canada, University of Waterloo Collaboration Centre",
-    para: "Terrence's Bio"
+    para: "Terrence Stewart is a Research Officer for the National Research Council Canada, as part of the University of Waterloo Collaboration Centre.  His research is on how cognitive architectures can be implemented in the physical brain, emphasizing how dynamics, timing, and energy consumption put important constraints on the types of algorithms that are suitable for cognition.  While his initial work was in ACT-R, for the last ten years he has worked with Chris Eliasmith at the University of Waterloo to adapt such algorithms to be implementable with neurons, using the Neural Engineering Framework to generate large-scale spiking models capable of performing basic cognitive tasks."
   }
 ]
