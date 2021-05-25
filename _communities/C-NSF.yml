@@ -13,13 +13,13 @@ options: [
     ]
   },
   {
-    name: Project D-462,
-    subTitle: "Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)",
+    name: Project ,
+    subTitle: "project name",
     description: "",
-    listHeading: "Sponsor: Vanderbilt University",
+    listHeading: "Sponsor: ",
     list: [
-      "Bennett Landman (Principal Investigator)",
-      "Cheryl Carey (Co-Principal Investigator)"
+      " (Principal Investigator)",
+      " (Co-Principal Investigator)"
     ]
   }
 ]
