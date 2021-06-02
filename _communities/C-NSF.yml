@@ -40,7 +40,7 @@ options: [
     ]
   },
   {
-    name: ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging,
+    name: ImagiQ - Asynchronous and Decentralized Federated Learning for Medical Imaging,
     subTitle: "",
     description: "",
     listHeading: "Sponsor: University of Iowa",
@@ -65,7 +65,7 @@ options: [
     ]
   },
   {
-    name: SQAI: Scalable Quantum Artificial Intelligence for Discovery,
+    name: SQAI - Scalable Quantum Artificial Intelligence for Discovery,
     subTitle: "",
     description: "",
     listHeading: "Sponsor: Pennsylvania State University",
