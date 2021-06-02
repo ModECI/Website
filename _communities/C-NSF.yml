@@ -3,23 +3,77 @@ title: NSF Convergence Accelerator
 anchor: nsfProjects
 options: [
   {
-    name: Project D-727,
-    subTitle: "Towards Intelligent Sharing and Search for AI Models and Datasets",
+   name: Towards Intelligent Sharing and Search for AI Models and Datasets,
+    subTitle: "",
     description: "",
     listHeading: "Sponsor: University of California-San Diego",
     list: [
       "Jingbo Shang (Principal Investigator)",
-      "Rajesh Gupta (Co-Principal Investigator)"
+      "Rajesh Gupta (Co-Principal Investigator)",
+      "Lucila Ohno-Machado (Co-Principal Investigator)",
+      "Arun Kumar (Co-Principal Investigator)",
+      "Giorgio Quer (Co-Principal Investigator)"
     ]
   },
   {
-    name: Project D-462,
-    subTitle: "Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)",
+    name: Deep Monitoring of the Biome Will Converge Life Sciences, Policy, and Engineering,
+    subTitle: "",
     description: "",
     listHeading: "Sponsor: Vanderbilt University",
     list: [
-      "Bennett Landman (Principal Investigator)",
-      "Cheryl Carey (Co-Principal Investigator)"
+      "Janos Sztipanovits (Principal Investigator)",
+      "James Pipas (Co-Principal Investigator)",
+      "Douglas Norris (Co-Principal Investigator)",
+      "David Smith (Co-Principal Investigator)",
+      "Ethan Jackson (Co-Principal Investigator)"
+    ]
+  },
+  {
+    name: Intelligent Surveillance Platform for Damage Detection and Localization of Civil Infrastructure,
+    subTitle: "",
+    description: "",
+    listHeading: "Sponsor: Howard University",
+    list: [
+    "Claudia Marin (Principal Investigator)",
+    "Qiang (Shawn) Cheng (Co-Principal Investigator)",
+    "Jale Tezcan (Co-Principal Investigator)"
+    ]
+  },
+  {
+    name: ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging,
+    subTitle: "",
+    description: "",
+    listHeading: "Sponsor: University of Iowa",
+    list: [
+     "Stephen Baek (Principal Investigator)",
+     "Daniel Rubin (Co-Principal Investigator)",
+     "William Street (Co-Principal Investigator)",
+     "Xiaodong Wu (Co-Principal Investigator)",
+     "Paul Chang (Co-Principal Investigator)"
+    ]
+  },
+  {
+    name: Cloud-Accessible Integrated Quantum Simulator Based on Programmable Atom Arrays,
+    subTitle: "",
+    description: "",
+    listHeading: "Sponsor: Columbia University",
+    list: [
+      "Sebastian Will (Principal Investigator)",
+      "Alexander Gaeta (Co-Principal Investigator)",
+      "Nanfang Yu (Co-Principal Investigator)",
+      "Layla Hormozi (Co-Principal Investigator)"
+    ]
+  },
+  {
+    name: SQAI: Scalable Quantum Artificial Intelligence for Discovery,
+    subTitle: "",
+    description: "",
+    listHeading: "Sponsor: Pennsylvania State University",
+    list: [
+      "Swaroop Ghosh (Principal Investigator)",
+      "Nitin Samarth (Co-Principal Investigator)",
+      "Mahmut Kandemir (Co-Principal Investigator)",
+      "Sean Hallgren (Co-Principal Investigator)"
     ]
   }
 ]
