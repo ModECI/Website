@@ -4,6 +4,7 @@ anchor: nsfProjects
 options: [
   {
    name: Towards Intelligent Sharing and Search for AI Models and Datasets,
+   id: "intelligentSharingLink",
     subTitle: "",
     description: "",
     listHeading: "Sponsor: University of California-San Diego",
@@ -17,6 +18,7 @@ options: [
   },
   {
     name: Deep Monitoring of the Biome Will Converge Life Sciences, Policy, and Engineering,
+    id: "environmentalscienceLink",
     subTitle: "",
     description: "",
     listHeading: "Sponsor: Vanderbilt University",
@@ -30,6 +32,7 @@ options: [
   },
   {
     name: Intelligent Surveillance Platform for Damage Detection and Localization of Civil Infrastructure,
+    id: "structuralengineeringLink",
     subTitle: "",
     description: "",
     listHeading: "Sponsor: Howard University",
@@ -41,6 +44,7 @@ options: [
   },
   {
     name: ImagiQ - Asynchronous and Decentralized Federated Learning for Medical Imaging,
+    id: "medicalinformaticsLink",
     subTitle: "",
     description: "",
     listHeading: "Sponsor: University of Iowa",
@@ -54,6 +58,7 @@ options: [
   },
   {
     name: Cloud-Accessible Integrated Quantum Simulator Based on Programmable Atom Arrays,
+    id: "quantumComputingLink",
     subTitle: "",
     description: "",
     listHeading: "Sponsor: Columbia University",

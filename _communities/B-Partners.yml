@@ -3,24 +3,12 @@ title: Partners
 anchor: partners
 options: [
   {
-    name: ,
-    subTitle: "",
-    description: "",
+    name: Super.tech,
+    id: "supertechLink",
+    subTitle: "We are partnering with Super.tech to investigate executing a range of MDF models on quantum computing platforms",
+    description: "<a href=\"http://Super.tech\" target=\"_blank\">Super.tech website</a>",
     listHeading: "",
-    list: [
-      "",
-      
-    ]
-  },
-  {
-    name: ,
-    subTitle: "",
-    description: "",
-    listHeading: "",
-    list: [
-      "",
+  }
 
-    ]
-  },
 ]
 ---

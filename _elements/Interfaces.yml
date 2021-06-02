@@ -3,12 +3,6 @@ title: Interfaces
 anchor: interfaces
 options: [
   {
-    url: "http://Super.tech",
-    title: "Super.tech",
-    id: "supertechLink",
-    description: "We are partnering with Super.tech to investingate executing a range of MDF models on quantum computing platforms"
-  },
-  {
     url: "https://github.com/emer/emergent",
     title: "Emergent",
     id: "emergentLink",
