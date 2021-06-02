@@ -3,79 +3,12 @@ title: Partners
 anchor: partners
 options: [
   {
-    name: Project D-727,
-    subTitle: "",
-    description: "Towards Intelligent Sharing and Search for AI Models and Datasets",
-    listHeading: "Sponsor: University of California-San Diego",
-    list: [
-      "Jingbo Shang (Principal Investigator)",
-      "Rajesh Gupta (Co-Principal Investigator)",
-      "Lucila Ohno-Machado (Co-Principal Investigator)",
-      "Arun Kumar (Co-Principal Investigator)",
-      "Giorgio Quer (Co-Principal Investigator)"
-    ]
-  },
-  {
-    name: Project D-688,
-    subTitle: "",
-    description: "Deep Monitoring of the Biome Will Converge Life Sciences, Policy, and Engineering",
-    listHeading: "Sponsor: Vanderbilt University",
-    list: [
-      "Janos Sztipanovits (Principal Investigator)",
-      "James Pipas (Co-Principal Investigator)",
-      "Douglas Norris (Co-Principal Investigator)",
-      "David Smith (Co-Principal Investigator)",
-      "Ethan Jackson (Co-Principal Investigator)"
-    ]
-  },
-  {
-    name: Project D-665,
-    subTitle: "",
-    description: "Intelligent Surveillance Platform for Damage Detection and Localization of Civil Infrastructure",
-    listHeading: "Sponsor: Howard University",
-    list: [
-    "Claudia Marin (Principal Investigator)",
-    "Qiang (Shawn) Cheng (Co-Principal Investigator)",
-    "Jale Tezcan (Co-Principal Investigator)"
-    ]
-  },
-  {
-    name: Project D-532,
-    subTitle: "",
-    description: "ImagiQ: Asynchronous and Decentralized Federated Learning for Medical Imaging",
-    listHeading: "Sponsor: University of Iowa",
-    list: [
-     "Stephen Baek (Principal Investigator)",
-     "Daniel Rubin (Co-Principal Investigator)",
-     "William Street (Co-Principal Investigator)",
-     "Xiaodong Wu (Co-Principal Investigator)",
-     "Paul Chang (Co-Principal Investigator)"
-    ]
-  },
-  {
-    name: Project C-702,
-    subTitle: "",
-    description: "Cloud-Accessible Integrated Quantum Simulator Based on Programmable Atom Arrays",
-    listHeading: "Sponsor: Columbia University",
-    list: [
-      "Sebastian Will (Principal Investigator)",
-      "Alexander Gaeta (Co-Principal Investigator)",
-      "Nanfang Yu (Co-Principal Investigator)",
-      "Layla Hormozi (Co-Principal Investigator)"
-    ]
-  },
-  {
-    name: Project C-667,
-    subTitle: "",
-    description: "SQAI: Scalable Quantum Artificial Intelligence for Discovery",
-    listHeading: "Sponsor: Pennsylvania State University",
-    list: [
-      "Swaroop Ghosh (Principal Investigator)",
-      "Nitin Samarth (Co-Principal Investigator)",
-      "Mahmut Kandemir (Co-Principal Investigator)",
-      "Sean Hallgren (Co-Principal Investigator)"
+    name: Super.tech,
+    id: "supertechLink",
+    subTitle: "We are partnering with Super.tech to investigate executing a range of MDF models on quantum computing platforms",
+    description: "<a href=\"http://Super.tech\" target=\"_blank\">Super.tech website</a>",
+    listHeading: "",
+  }
 
-    ]
-  },
 ]
 ---

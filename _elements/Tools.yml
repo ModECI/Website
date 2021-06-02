@@ -21,12 +21,6 @@ options: [
     description: "We are planning to extend MDF support to The Virtual Brain simulator in Phase II of this project."
   },
   {
-    url: "https://github.com/ModECI/MDF/tree/main/examples/Quantum",
-    title: "Quantum Computing",
-    id: "quantumComputingLink",
-    description: "We are actively investigating mapping of models in MDF format to quantum hardware with our collaborators in Track C of the NSF Convergence Accelerator program"
-  },
-  {
     url: "https://github.com/ModECI/MDF/tree/main/examples/PsyNeuLink/",
     title: "PsyNeulink",
     id: "psyneulink",
