@@ -11,7 +11,7 @@ layout: policy
 
 <p>Welcome to ModECI!</p>
 
-<p>These terms and conditions outline the rules and regulations for the use of ModECI's Website, located at <a href="https://modeci.github.io/{{site.baseurl}}">https://modeci.github.io/{{site.baseurl}}</a>.</p>
+<p>These terms and conditions outline the rules and regulations for the use of ModECI's website, located at <a href="https://modeci.github.io/{{site.baseurl}}">https://modeci.github.io/{{site.baseurl}}</a>.</p>
 
 <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use modeci.github.io if you do not agree to take all of the terms and conditions stated on this page.</p>
 
