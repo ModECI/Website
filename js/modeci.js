@@ -8,9 +8,17 @@
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $("#"+$anchor.attr('href').split('#')[1]).offset().top
-        }, 1500, 'easeInOutExpo');
+        var anchorSplit = $anchor.attr('href').split('#');
+        var anchorTag = "#"+anchorSplit[1];
+        var location = window.location;
+        if(location.pathname !== anchorSplit[0]) {
+            // redirect to main page anchor tags when redirected from another pages
+            window.location.href = location.origin + anchorTag;
+        } else {
+            $('html, body').stop().animate({
+                scrollTop: $(anchorTag).offset().top
+            }, 1500, 'easeInOutExpo');
+        }
         event.preventDefault();
     });
 });
@@ -18,12 +26,21 @@ $(function() {
 $(function() {
     $('a.anchor-scroll').bind('click', function(event) {
         var $anchor = $(this);
-        var elementsWithSameClass = $('.'+($anchor.attr('href').split('#'))[1]) //get the class name from href value
-        // out of the two elements find the visible one, get its top value
-        var scrollTop = $(elementsWithSameClass[0]).is(':visible') ? $(elementsWithSameClass[0]).offset().top : $(elementsWithSameClass[1]).offset().top
-        $('html, body').stop().animate({
-            scrollTop: scrollTop - 130
-        }, 1500, 'easeInOutExpo');
+        var elementClass = $anchor.attr('href').split('#')[1]
+        var elementsWithSameClass = $('.'+elementClass) // get the class name from href value
+        var tabLink = (elementsWithSameClass.attr('class').split(elementClass)[1]).trim()
+        // test if the element includes tab info , for communities listing
+        if(tabLink) {
+            // open the tab first
+            $('.nav-tabs a[href="#' + tabLink + '"]').tab('show');
+        }
+        // once the tab is visible or out of the two elements find the visible one, get its top value
+        setTimeout(function(){
+            var scrollTop = $(elementsWithSameClass[0]).is(':visible') ? $(elementsWithSameClass[0]).offset().top : $(elementsWithSameClass[1]).offset().top
+            $('html, body').stop().animate({
+                scrollTop: scrollTop - 130
+            }, 1500, 'easeInOutExpo');
+        }, 500)
         event.preventDefault();
     });
 });
