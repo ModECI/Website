@@ -25,6 +25,18 @@ options: [
     title: "SONATA",
     id: "sonataLink",
     description: "We are planning to extend MDF support for mapping to and from the SONATA format for large scale neuronal modeling in Phase II of this project."
+  },
+  {
+    url: "https://github.com/ModECI/MDF/tree/main/examples/PyTorch",
+    title: "PyTorch",
+    id: "pytorchLink",
+    description: "PyTorch is a widely used framework in machine learning and we have developed an initial mapping between MDF models and PyTorch"
+  },
+  {
+    url: "https://www.tensorflow.org/",
+    title: "TensorFlow",
+    id: "tensorflowLink",
+    description: "We are planning to extend MDF support to TensorFlow in Phase II of this project."
   }
-]
+  ]
 ---
