@@ -1093,6 +1093,7 @@ section h3.section-subheading span {
     -webkit-mask-composite: destination-out;
     mask-composite: exclude;
     -webkit-mask-composite: xor;
+    z-index: -1;
 }
 .contact-form-row {
     display: flex;
