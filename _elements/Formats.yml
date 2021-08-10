@@ -24,7 +24,7 @@ options: [
     url: "https://github.com/AllenInstitute/sonata",
     title: "SONATA",
     id: "sonataLink",
-    description: "We are planning to extend MDF support for mapping to and from the SONATA format for large scale neuronal modeling in Phase II of this project."
+    description: "We are planning to extend MDF support for mapping to and from the SONATA format for large scale neuronal modeling."
   },
   {
     url: "https://github.com/ModECI/MDF/tree/main/examples/PyTorch",
@@ -36,7 +36,7 @@ options: [
     url: "https://www.tensorflow.org/",
     title: "TensorFlow",
     id: "tensorflowLink",
-    description: "We are planning to extend MDF support to TensorFlow in Phase II of this project."
+    description: "We are planning to extend MDF support to TensorFlow in the next phase of this project."
   }
   ]
 ---

@@ -12,7 +12,7 @@ options: [
     url: "https://github.com/emer/emergent",
     title: "Emergent",
     id: "emergentLink",
-    description: "We are planning to implement MDF support for the Emergent simulator in Phase II of this project."
+    description: "We are planning to implement MDF support for the Emergent simulator in the next phase of this project."
   },
   {
     url: "https://github.com/ModECI/MDF/tree/main/examples/ACT-R",
@@ -24,13 +24,13 @@ options: [
     url: "http://Nengo.ai",
     title: "Nengo",
     id: "nengoLink",
-    description: "We are planning to implement MDF support for the Nengo simulator in Phase II of this project."
+    description: "We are planning to implement MDF support for the Nengo simulator in the next phase of this project."
   },
   {
     url: "https://www.thevirtualbrain.org",
     title: "The Virtual Brain",
     id: "thevirtualbrainLink",
-    description: "We are planning to extend MDF support to The Virtual Brain simulator in Phase II of this project."
+    description: "We are planning to extend MDF support to The Virtual Brain simulator in the next phase of this project."
   }
   ]
 ---
