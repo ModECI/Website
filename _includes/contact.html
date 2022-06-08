@@ -4,71 +4,8 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Get in contact</h2>
-                    <h3>We are very keen to collaborate with members of the broader community. Please get in contact with us via the form below for more information.
-                      <br/><br/>Additionally, disussions around the standard and related software are taking place on our <a href ="https://github.com/ModECI/MDF/discussions" >GitHub Discussions</a> forum, where you can ask your own questions about the initiative.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="contact-form">
-                    <form class="contact-formData" name="contactForm" id="contactForm" action="{{site.contactFormAction}}" method="POST">
-                        <div class="row">
-                            <div class="col-xs-12 col-md-6">
-                                <div class="control-group form-group">
-                                    <input type="text" class="form-control" placeholder="Your Name *" required id="MyName" name="MyName" required data-validation-required-message="Please enter your name." autocomplete="off">
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-md-6">
-                                <div class="control-group form-group">
-                                    <input type="email" class="form-control" placeholder="Your Email *" id="email" name="email" required data-validation-required-message="Please enter your email address." autocomplete="off">
-                                </div>
-                            </div>
-                            {% for field in site.data.contact.formFields %}
-                            <div class="col-xs-12">
-                                <div class="form-group">
-                                    <select class="rev-select-box" id="{{field.id}}" name="{{field.id}}" autocomplete="off">
-                                        {% for stage in field.fields %}
-                                            {% if forloop.first %}
-                                            <option value="{{stage.value}}" selected>{{stage.display}}</option>
-                                            {% else %}
-                                            <option value="{{stage.value}}">{{stage.display}}</option>
-                                            {% endif %}
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </div>
-                            {% endfor %}
-                            <div class="col-xs-12">
-                                <div class="control-group form-group">
-                                    <textarea rows = "5" cols = "50" class="form-control" placeholder="Please enter any message/query for us here" required="" id="message" name="message" maxlength="500" autocomplete="off"></textarea>
-							    </div>
-                            </div>
-                            <div class="col-xs-12">
-                                <div class="form-group">
-                                    <div class="custom-checkbox">
-                                        You can contact me (rarely) by email with additional information about this project (e.g., beta testing opportunities) or requests for feedback, additional questions, etc.)
-                                        <input type="checkbox" name="contactByEmail">
-                                        <span class="checkmark"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xs-12">
-                                <div class="form-group">
-                                    <div class="custom-checkbox">
-                                        <div class="custom-checkboxCaption">I’ve read and I agree to the <a href="{{site.baseurl}}/privacy_policy" target="_blank">Policy.</a></div>
-                                        <input type="checkbox" name="policyCheck" required>
-                                        <span class="checkmark"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                        </div>
-                        <div style="position: absolute; left: -5000px;">
-                            <input type="checkbox" name="incredible_turquoise_glossy_chair" value="1" tabindex="-1" autocomplete="no">
-                        </div>
-                        <div class="text-center contact-submit">
-                            <button type="submit" class="btn">Send</button>
-                        </div>
-                    </form>
+                    <h3>We are very keen to collaborate with members of the broader community. To contact the ModECI investigators directly mail: <b>info -at- modeci.org</b>.
+                      <br/><br/>Additionally, discussions around the standard and related software are taking place on our <a href ="https://github.com/ModECI/MDF/discussions" >GitHub Discussions</a> forum, where you can ask your own questions about the initiative.</h3>
                 </div>
             </div>
         </div>
