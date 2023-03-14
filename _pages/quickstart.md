@@ -1,9 +1,7 @@
 ---
-title: "Quick Start"
-sitemap: false
 permalink: /quickstart
-redirect_to:
-  - https://mdf.readthedocs.io/en/latest/api/Introduction.html
+redirect: https://mdf.readthedocs.io/en/latest/api/Introduction.html
+layout: redirect
 ---
 
-## Quick start guide to MDF...
+## Quick start guide to MDF, redirecting to docs...
