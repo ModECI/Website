@@ -22,3 +22,6 @@ collections:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+include:
+  - _pages
