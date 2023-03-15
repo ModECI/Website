@@ -1,6 +1,6 @@
 ---
 permalink: /quickstart
-redirect: https://mdf.readthedocs.io/en/latest/api/Introduction.html
+redirect: https://mdf.readthedocs.io/en/latest/api/QuickStart.html
 layout: redirect
 ---
 
