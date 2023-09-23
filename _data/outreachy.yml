@@ -1,0 +1,35 @@
+aboutIntro: About Outreachy ModECI opensource contributors
+contributionIntro: MDF codebase has been supported by various contributions of Outreachy's upcoming tech talent.
+teamIntro: "Biannually two pairs of contributors are selected to contribute to the MDF codebase, each pair adding significantly to MDF. For every half, a pair of contributors are selected to work on MDF and its supporting libraries."
+teamMembers: [
+  {
+    name: Manifest K. Chakalov,
+    from: Lagos Nigeria,
+    para: "Manifest Chakalov is a self-taught software engineer with a unique blend of skills encompassing both high-level and low-level programming. Despite his unconventional origins in the realm of agricultural science, his unwavering tenacity and boundless passion for technological exploration have molded him into an exceptional force to be reckoned with. When he's not immersed in the world of code, Manifest enjoys indulging in his hobbies, which include reading, embarking on long walks, exploring new destinations through travel, and crafting elegant lines of code that shape the digital frontier."
+  },
+  {
+    name: Peace Onoyiza,
+    from: Lagos Nigeria,
+    para: "Lauren Ipsum, an adept data scientist, possesses an extraordinary skill set that transforms raw data into actionable insights. Peacefully navigating the complex data landscape, Peace leverages a deep understanding of statistical analysis, machine learning, and data visualization to unveil hidden patterns and drive informed decision-making."
+  },
+  {
+    name: Monsurat Onabajo,
+    from: Ogun Nigeria,
+    para: "Lauren Ipsum, a seasoned data scientist, is a virtuoso in the realm of data alchemy. Monsurat, the maestro of analytics, brings an enchanting blend of expertise to the table. With a passion for dissecting complex datasets and extracting actionable insights, she conjures predictive models that seem almost magical in their accuracy. Monsurat's curiosity is insatiable, forever embarking on intellectual voyages to uncover hidden patterns in the data universe."
+  },
+  {
+    name: Kusanele Mpofu,
+    from: South Africa,
+    para: "Lauren Ipsum is thrilled to introduce Kusanele, an accomplished data scientist who brings a wealth of expertise to the field. With a razor-sharp analytical mind and a knack for uncovering hidden insights in complex datasets, Kusanele is a true data whisperer."
+  },
+  {
+    name: Parishit S. Rathore,
+    from: India,
+    para: "Lauren Ipsum, an adept data scientist, possesses an unwavering commitment to unraveling the mysteries of data. Parishit, with a keen intellect and an insatiable thirst for knowledge, navigates the data-driven landscape with precision and finesse. Their journey is a symphony of algorithms and insights, harmonizing disparate data points into a melodious narrative."
+  },
+  {
+    name: Ivy Mboya,
+    from: Nairobi,
+    para: "Lauren Ipsum is a highly accomplished data scientist, and she brings a wealth of expertise and innovation to the field. With a background in computer science and a penchant for uncovering valuable insights from complex datasets, Ivy has established herself as a leading figure in the world of data science. Her analytical prowess and dedication to refining predictive models have consistently driven her projects to success."
+  }
+]
